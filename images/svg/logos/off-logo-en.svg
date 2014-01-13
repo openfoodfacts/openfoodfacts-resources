@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2830747"
-     inkscape:cx="120.71698"
-     inkscape:cy="37.916901"
+     inkscape:zoom="2.7220024"
+     inkscape:cx="42.007043"
+     inkscape:cy="59.959498"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,18 +60,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffff"
-       id="rect58996"
-       width="185"
-       height="185"
-       x="-14.894157"
-       y="-42.012264" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:3"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect7640"
        height="180"
-       x="-9.5"
-       y="-10.5"
+       x="-10"
+       y="-10"
        width="220" />
     <path
        inkscape:export-ydpi="180"
@@ -79,7 +72,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        style="fill:#0066ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 181,35.5 0,6.41101 c 1.19571,0.444338 2.21393,1.060483 3,1.761208 L 184,35.5 z m 4,0 0,8.312003 1,-0.838676 L 186,35.5 z m 2,0 0,6.606702 1,-0.978462 0,11.7694 -1,-1.00641 0,52.60877 2,0 0,-69 z m -2,14.685929 0,54.314071 1,0 0,-53.475406 z m -1,0.139774 c -0.78598,0.701951 -1.79569,1.313237 -3,1.76122 l 0,52.413077 3,0 z"
+       d="m 181,35 0,6.41101 c 1.19571,0.444338 2.21393,1.060483 3,1.761208 L 184,35 z m 4,0 0,8.312003 1,-0.838676 L 186,35 z m 2,0 0,6.606702 1,-0.978462 0,11.7694 -1,-1.00641 0,52.60877 2,0 0,-69 z M 185,49.685929 185,104 l 1,0 0,-53.475406 z m -1,0.139774 c -0.78598,0.701951 -1.79569,1.313237 -3,1.76122 L 181,104 l 3,0 z"
        id="path7944"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
     <path
@@ -88,7 +81,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        style="fill:#00ccff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 165,35.5 0,69 3,0 0,-53.810872 c -1.32362,-1.014805 -2.12462,-2.271422 -2.12462,-3.662215 0,-1.390781 0.801,-2.675356 2.12462,-3.690161 L 168,35.5 z m 4,0 0,7.193768 c 1.12603,-0.642997 2.47034,-1.128715 4,-1.397795 L 173,35.5 z m 5,0 0,5.62824 c 0.32965,-0.03644 0.65978,-0.03965 1,-0.05585 l 0,-5.572333 c -0.35153,4.6e-5 -0.64847,-3.3e-5 -1,-5.7e-5 z m 2,0 0,5.544374 c 0.68266,0.0083 1.35814,0.08097 2,0.167733 L 178,35.5 z m -7,15.860072 0,53.139928 4,0 0,-51.770093 c -1.58676,-0.26883 -2.87451,-0.727732 -4,-1.369835 z m 9,1.481649 c -0.64077,0.08753 -1.31859,0.131652 -2,0.139785 l 0,51.518494 2,0 z m -4,0.05597 0,51.602309 1,0 0,-51.546402 c -0.34022,-0.01632 -0.67076,-0.01941 -1.00041,-0.05585 z"
+       d="m 165,35 0,69 3,0 0,-53.810872 c -1.32362,-1.014805 -2.12462,-2.271422 -2.12462,-3.662215 0,-1.390781 0.801,-2.675356 2.12462,-3.690161 L 168,35 z m 4,0 0,7.193768 c 1.12603,-0.642997 2.47034,-1.128715 4,-1.397795 L 173,35 z m 5,0 0,5.62824 c 0.32965,-0.03644 0.65978,-0.03965 1,-0.05585 l 0,-5.572333 c -0.35153,4.6e-5 -0.64847,-3.3e-5 -1,-5.7e-5 z m 2,0 0,5.544374 c 0.68266,0.0083 1.35814,0.08097 2,0.167733 L 178,35 z M 169,50.860072 169,104 l 4,0 0,-51.770093 c -1.58676,-0.26883 -2.87451,-0.727732 -4,-1.369835 z m 9,1.481649 c -0.64077,0.08753 -1.31859,0.131652 -2,0.139785 L 176,104 l 2,0 z m -4,0.05597 0,51.602309 1,0 0,-51.546402 c -0.34022,-0.01632 -0.67076,-0.01941 -1.00041,-0.05585 z"
        id="path7946"
        sodipodi:nodetypes="ccccscccccccccccccccccccccccccccccccccc" />
     <path
@@ -97,7 +90,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7948"
-       d="m 161,35.5 0,69 1,0 0,-69 z"
+       d="m 161,35 0,69 1,0 0,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -106,7 +99,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7950"
-       d="m 157,35.5 0,69 3,0 0,-69 z"
+       d="m 157,35 0,69 3,0 0,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -115,7 +108,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7952"
-       d="m 154,35.5 0,69 2,0 0,-69 z"
+       d="m 154,35 0,69 2,0 0,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -124,7 +117,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7954"
-       d="m 152,35.5 0,69 1,0 0,-69 z"
+       d="m 152,35 0,69 1,0 0,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -133,7 +126,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7956"
-       d="m 146,33.5 0,71 3,0 -5e-5,-69 z"
+       d="m 146,33 0,71 3,0 -5e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -142,7 +135,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7958"
-       d="m 143,35.5 0,69 2,0 -4e-5,-69 z"
+       d="m 143,35 0,69 2,0 -4e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -151,7 +144,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7960"
-       d="m 140,35.5 0,69 2,0 1e-5,-69 z"
+       d="m 140,35 0,69 2,0 1e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -160,7 +153,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7962"
-       d="m 136,35.5 0,69 1,0 5e-5,-69 z"
+       d="m 136,35 0,69 1,0 5e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -169,7 +162,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7964"
-       d="m 132,35.5 0,69 1,0 6e-5,-69 z"
+       d="m 132,35 0,69 1,0 6e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -178,7 +171,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7966"
-       d="m 127,35.5 0,69 2,0 1e-5,-69 z"
+       d="m 127,35 0,69 2,0 1e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -187,7 +180,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7968"
-       d="m 123,35.5 0,69 1,0 -5e-5,-69 z"
+       d="m 123,35 0,69 1,0 -5e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -196,7 +189,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7970"
-       d="m 121,35.5 0,69 1,0 -5e-5,-69 z"
+       d="m 121,35 0,69 1,0 -5e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -205,7 +198,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7972"
-       d="m 119,35.5 0,69 1,0 4e-5,-69 z"
+       d="m 119,35 0,69 1,0 4e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -214,7 +207,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7974"
-       d="m 114,35.5 0,69 2,0 1e-5,-69 z"
+       d="m 114,35 0,69 2,0 1e-5,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -223,7 +216,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7976"
-       d="m 110,35.5 0,69 1,0 0,-69 z"
+       d="m 110,35 0,69 1,0 0,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -232,7 +225,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7978"
-       d="m 106,35.5 0.0166,69 0.98337,0 -0.0171,-69 z"
+       d="m 106,35 0.0166,69 0.98337,0 -0.0171,-69 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -241,7 +234,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7980"
-       d="m 101,30.5 0,74 2,0 0,-74 z"
+       d="m 101,30 0,74 2,0 0,-74 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -250,7 +243,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7983"
-       d="m 99,35.5 0,69 1,0 0,-69 z"
+       d="m 99,35 0,69 1,0 0,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -259,7 +252,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7985"
-       d="m 96,19.5 0,85 2,0 0,-85 z"
+       d="m 96,19 0,85 2,0 0,-85 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -268,7 +261,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7987"
-       d="m 92,35.5 0,69 3,0 4e-6,-69 z"
+       d="m 92,35 0,69 3,0 4e-6,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -277,7 +270,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7989"
-       d="m 88,35.5 0,69 1,0 3e-6,-69 z"
+       d="m 88,35 0,69 1,0 3e-6,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -286,7 +279,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7991"
-       d="m 85,29.5 0,75 2,0 -7e-6,-75 z"
+       d="m 85,29 0,75 2,0 -7e-6,-75 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -295,7 +288,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7993"
-       d="m 81,35.5 0,69 3,0 4e-6,-69 z"
+       d="m 81,35 0,69 3,0 4e-6,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -304,7 +297,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7995"
-       d="m 77,35.5 0,69 1,0 3e-6,-69 z"
+       d="m 77,35 0,69 1,0 3e-6,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -313,7 +306,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7997"
-       d="m 75,35.5 0,69 1,0 10e-7,-69 z"
+       d="m 75,35 0,69 1,0 10e-7,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -322,7 +315,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path7999"
-       d="m 70,35.5 0.02596,69 1.974042,0 -0.02685,-69 z"
+       d="m 70,35 0.02596,69 1.974042,0 -0.02685,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -331,7 +324,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8001"
-       d="m 66,24.5 0,80 1,0 -9e-6,-80 z"
+       d="m 66,24 0,80 1,0 -9e-6,-80 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -340,7 +333,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8003"
-       d="m 63,35.5 0,69 2,0 3e-6,-69 z"
+       d="m 63,35 0,69 2,0 3e-6,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -349,7 +342,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8005"
-       d="m 57,35.5 0,69 3,0 -7e-6,-69 z"
+       d="m 57,35 0,69 3,0 -7e-6,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -358,7 +351,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8007"
-       d="m 55,35.5 0,69 1,0 10e-7,-69 z"
+       d="m 55,35 0,69 1,0 10e-7,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -367,7 +360,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8009"
-       d="m 51,35.5 0,69 1,0 2e-6,-69 z"
+       d="m 51,35 0,69 1,0 2e-6,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -376,7 +369,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8011"
-       d="m 48,35.5 0,69 2,0 4e-6,-69 z"
+       d="m 48,35 0,69 2,0 4e-6,-69 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -385,7 +378,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8013"
-       d="m 44,29.5 0,75 1,0 -7e-6,-75 z"
+       d="m 44,29 0,75 1,0 -7e-6,-75 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -394,7 +387,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8015"
-       d="m 41,28.5 0,76 2,0 4e-6,-76 z"
+       d="m 41,28 0,76 2,0 4e-6,-76 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -403,7 +396,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8017"
-       d="m 37,35.5 0,69 3,0 0,-69 z"
+       d="m 37,35 0,69 3,0 0,-69 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -412,7 +405,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8019"
-       d="m 33,35.5 0,69 3,0 -5e-6,-69 z"
+       d="m 33,35 0,69 3,0 -5e-6,-69 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -421,7 +414,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8021"
-       d="m 30,29.5 0,75 2,0 -8.6e-5,-75 z"
+       d="m 30,29 0,75 2,0 -8.6e-5,-75 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -430,7 +423,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8023"
-       d="m 26,30.5 0,74 3,0 -3.5e-5,-74 z"
+       d="m 26,30 0,74 3,0 -3.5e-5,-74 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -439,7 +432,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8025"
-       d="m 22,35.5 0,69 1,0 -4.9e-5,-69 z"
+       d="m 22,35 0,69 1,0 -4.9e-5,-69 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -448,7 +441,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8027"
-       d="m 19,35.5 0,69 1,0 0,-69 z"
+       d="m 19,35 0,69 1,0 0,-69 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -457,7 +450,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8029"
-       d="m 14,35.5 0,69 0.999563,0 0,-69 z"
+       d="m 14,35 0,69 0.999563,0 0,-69 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
@@ -466,21 +459,21 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8031"
-       d="m 11.000013,35.5 0,69 2,0 0,-69 z"
+       d="m 11.000013,35 0,69 2,0 0,-69 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:nodetypes="ccccc" />
     <path
        sodipodi:nodetypes="csssacccccssscccsccccc"
        inkscape:connector-curvature="0"
        id="path8033"
-       d="m 23.96037,29.668037 c 0.62972,-0.815576 0.719123,-2.676154 1.281409,-4.358843 0.405305,-1.212926 0.463533,-4.596987 1.208651,-4.882429 0.96834,-0.370951 3.169601,-0.358079 4.223988,-0.416629 2.300059,-0.127699 4.518931,1.098659 6.822539,1.101136 2.990853,0.0036 8.861008,-1.410596 8.861008,-1.410596 l -0.140119,-2.038826 1.505607,0.278059 4.07695,-0.516905 -3.008404,1.386137 c 0,0 1.201864,-0.02108 1.688022,0.276832 0.705048,0.432109 0.959994,1.347377 1.46892,1.999162 0.291967,0.373928 1.082477,0.65438 0.908337,1.095671 -0.469844,1.190611 -3.808977,0.485944 -3.808977,0.485944 l -1.918736,1.803326 c -0.833009,1.778987 -2.26137,3.261839 -2.253596,6.722383 0,0 -6.006891,-0.923008 -8.991183,-0.79663 -1.764007,0.07466 -4.968974,0.618073 -4.968974,0.618073 -1.608718,-0.13719 -3.296502,-0.529063 -4.905219,-0.24954 0.0095,-6.235485 0.866683,-6.128862 0.69876,-9.294821 -0.439183,1.679986 -0.971056,4.516551 -1.026843,5.772464 -0.534756,1.525804 -0.01191,1.899672 -1.72214,2.426032 z"
+       d="m 23.96037,29.168037 c 0.62972,-0.815576 0.719123,-2.676154 1.281409,-4.358843 0.405305,-1.212926 0.463533,-4.596987 1.208651,-4.882429 0.96834,-0.370951 3.169601,-0.358079 4.223988,-0.416629 2.300059,-0.127699 4.518931,1.098659 6.822539,1.101136 2.990853,0.0036 8.861008,-1.410596 8.861008,-1.410596 l -0.140119,-2.038826 1.505607,0.278059 4.07695,-0.516905 -3.008404,1.386137 c 0,0 1.201864,-0.02108 1.688022,0.276832 0.705048,0.432109 0.959994,1.347377 1.46892,1.999162 0.291967,0.373928 1.082477,0.65438 0.908337,1.095671 -0.469844,1.190611 -3.808977,0.485944 -3.808977,0.485944 l -1.918736,1.803326 c -0.833009,1.778987 -2.26137,3.261839 -2.253596,6.722383 0,0 -6.006891,-0.923008 -8.991183,-0.79663 -1.764007,0.07466 -4.968974,0.618073 -4.968974,0.618073 -1.608718,-0.13719 -3.296502,-0.529063 -4.905219,-0.24954 0.0095,-6.235485 0.866683,-6.128862 0.69876,-9.294821 -0.439183,1.679986 -0.971056,4.516551 -1.026843,5.772464 -0.534756,1.525804 -0.01191,1.899672 -1.72214,2.426032 z"
        style="fill:#ff0000;fill-opacity:1"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180" />
     <g
        style="fill:#ffcc00"
-       transform="matrix(0.01488015,-0.01147672,0.01147672,0.01488015,50.17529,17.067521)"
+       transform="matrix(0.01488015,-0.01147672,0.01147672,0.01488015,50.17529,16.567521)"
        id="g8035"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
@@ -503,7 +496,7 @@
          sodipodi:nodetypes="cscscc" />
     </g>
     <g
-       transform="matrix(0.89458574,0,0,0.89458574,-457.13007,-634.92698)"
+       transform="matrix(0.89458574,0,0,0.89458574,-457.13007,-635.42698)"
        id="g8041"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
@@ -731,7 +724,7 @@
     </g>
     <g
        id="g8107"
-       transform="matrix(0.485552,-0.55754244,0.55754244,0.485552,-605.03955,6.9228897)"
+       transform="matrix(0.485552,-0.55754244,0.55754244,0.485552,-605.03955,6.4228897)"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
@@ -795,7 +788,7 @@
          d="m 610.5,732.36218 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z" />
     </g>
     <g
-       transform="matrix(-0.6491698,-0.35382606,0.35382606,-0.6491698,229.16484,712.4075)"
+       transform="matrix(-0.6491698,-0.35382606,0.35382606,-0.6491698,229.16484,711.9075)"
        id="g8119"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
@@ -861,7 +854,7 @@
     </g>
     <g
        id="g8131"
-       transform="matrix(0.31450273,-0.66910564,0.66910564,0.31450273,-599.58237,200.30877)"
+       transform="matrix(0.31450273,-0.66910564,0.66910564,0.31450273,-599.58237,199.80877)"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
@@ -926,7 +919,7 @@
     </g>
     <path
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 133.44657,15.83728 C 142.63587,16.787033 146.07702,24.267884 146,37.5 l 2.96392,-1.398609 c 0,-1.461895 -0.0255,-1.249361 -0.0255,-2.711244 0,-10.866897 -6.40398,-17.274677 -10.91182,-18.343579 z"
+       d="M 133.44657,15.33728 C 142.63587,16.287033 146.07702,23.767884 146,37 l 2.96392,-1.398609 c 0,-1.461895 -0.0255,-1.249361 -0.0255,-2.711244 0,-10.866897 -6.40398,-17.274677 -10.91182,-18.343579 z"
        id="path8143"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
@@ -934,7 +927,7 @@
        inkscape:export-ydpi="180"
        sodipodi:nodetypes="cccscc" />
     <g
-       transform="matrix(0.89458574,0,0,0.89458574,-457.09845,-634.92698)"
+       transform="matrix(0.89458574,0,0,0.89458574,-457.09845,-635.42698)"
        id="g8145"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
@@ -958,7 +951,7 @@
     </g>
     <g
        id="g8153"
-       transform="matrix(0.73729109,0.50664139,0.50664139,-0.73729109,-717.9281,208.92539)"
+       transform="matrix(0.73729109,0.50664139,0.50664139,-0.73729109,-717.9281,208.42539)"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180">
@@ -990,13 +983,13 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:connector-curvature="0"
        id="path8163"
-       d="M 148.87818,14.10402 C 146.88514,15.668809 146.07702,24.267884 146,37.5 l 2.96392,-1.398609 c 0,-1.461895 0.0361,1.860492 0.0361,0.398609 0,-10.866897 0.85886,-19.322201 1.21536,-21.117966 z"
+       d="M 148.87818,13.60402 C 146.88514,15.168809 146.07702,23.767884 146,37 l 2.96392,-1.398609 c 0,-1.461895 0.0361,1.860492 0.0361,0.398609 0,-10.866897 0.85886,-19.322201 1.21536,-21.117966 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        inkscape:export-ydpi="180"
        inkscape:export-xdpi="180"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
-       transform="matrix(0.89458574,0,0,0.89458574,-457.09845,-634.92698)"
+       transform="matrix(0.89458574,0,0,0.89458574,-457.09845,-635.42698)"
        sodipodi:type="arc"
        style="fill:#00ccff;fill-opacity:1;stroke:none"
        id="path8165"
@@ -1011,7 +1004,7 @@
        inkscape:export-xdpi="112.45"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\favicon.png"
        id="path8169"
-       d="m 181.00004,127.5 0,5 c 2.66569,0 5.33424,0 7.99992,0 l 0,-5 c -2.66568,0 -5.33423,0 -7.99983,0 z"
+       d="m 181.00004,127 0,5 c 2.66569,0 5.33424,0 7.99992,0 l 0,-5 c -2.66568,0 -5.33423,0 -7.99983,0 z"
        style="fill:#0066ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0" />
     <path
@@ -1020,7 +1013,7 @@
        inkscape:export-xdpi="112.45"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\favicon.png"
        id="path8171"
-       d="m 165.00001,127.5 0,5 c 4.33407,0 8.6659,0 12.99997,0 l 0,-5 c -4.33407,0 -8.6659,0 -12.99997,0 z"
+       d="m 165.00001,127 0,5 c 4.33407,0 8.6659,0 12.99997,0 l 0,-5 c -4.33407,0 -8.6659,0 -12.99997,0 z"
        style="fill:#00ccff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0" />
     <path
@@ -1029,7 +1022,7 @@
        inkscape:export-xdpi="112.45"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\favicon.png"
        id="path8173"
-       d="m 106,127.5 0,5 c 18.6596,0 37.34041,0 56.00004,0 l 0,-5 c -18.65963,0 -37.34044,0 -56.00004,0 z"
+       d="m 106,127 0,5 c 18.6596,0 37.34041,0 56.00004,0 l 0,-5 C 143.34041,127 124.6596,127 106,127 z"
        style="fill:#00d400;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0" />
     <path
@@ -1038,7 +1031,7 @@
        inkscape:export-xdpi="112.45"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\favicon.png"
        id="path8175"
-       d="m 47.999996,127.5 0,5 c 18.333387,0 36.666623,0 55.000004,0 l 0,-5 c -18.333381,0 -36.666617,0 -55.000004,0 z"
+       d="m 47.999996,127 0,5 c 18.333387,0 36.666623,0 55.000004,0 l 0,-5 c -18.333381,0 -36.666617,0 -55.000004,0 z"
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0" />
     <path
@@ -1047,7 +1040,7 @@
        inkscape:export-xdpi="112.45"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\favicon.png"
        id="path8177"
-       d="m 11,127.5 0,5 c 11.333706,0 22.666301,0 33.999997,0 l 0,-5 c -11.333696,0 -22.666291,0 -33.999997,0 z"
+       d="m 11,127 0,5 c 11.333706,0 22.666301,0 33.999997,0 l 0,-5 C 33.666301,127 22.333706,127 11,127 z"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0" />
     <g
@@ -1056,7 +1049,7 @@
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180"
-       transform="translate(11,12.137817)">
+       transform="translate(11,11.637817)">
       <path
          inkscape:connector-curvature="0"
          d="m 0.29533203,104.18406 c -9.5e-7,-2.79573 0.61506181,-4.944723 1.84519007,-6.446982 1.2301228,-1.50223 2.7621882,-2.253352 4.5962009,-2.253369 1.1853862,1.7e-5 2.2664056,0.335506 3.2430614,1.006468 0.9766346,0.670993 1.7501226,1.645774 2.3204666,2.924346 0.570318,1.278597 0.855483,2.801347 0.855497,4.568247 -1.4e-5,2.43043 -0.551707,4.40982 -1.65508,5.93815 -1.215227,1.68491 -2.8069346,2.52736 -4.775128,2.52736 -1.9831188,0 -3.5785543,-0.86482 -4.7863113,-2.59445 -1.09593262,-1.56562 -1.64389762,-3.45554 -1.64389667,-5.66977 z m 1.83400717,0.0335 c -2.8e-6,2.0204 0.4454517,3.58787 1.3363649,4.70244 0.890905,1.11457 1.9737882,1.67185 3.2486529,1.67185 1.3046712,0 2.3987374,-0.56287 3.2822018,-1.68863 0.8834432,-1.12574 1.3251702,-2.78082 1.3251822,-4.96524 -1.2e-5,-1.40904 -0.227399,-2.66899 -0.682161,-3.77984 C 10.289169,99.308298 9.761706,98.628001 9.0571893,98.117299 8.3526532,97.606624 7.5828928,97.35128 6.7479059,97.351265 5.4059434,97.35128 4.3006943,97.910428 3.4321552,99.028711 2.563608,100.14702 2.1293364,101.87665 2.1293392,104.21761 z"
@@ -1141,124 +1134,151 @@
          d="m 137.07572,105.36218 0,2 -6,0 0,-2 z" />
     </g>
     <g
-       transform="scale(0.90339875,1.1069309)"
+       transform="matrix(0.90339875,0,0,1.1069309,0,-0.5)"
        style="font-size:17px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Arial Narrow;-inkscape-font-specification:Arial Narrow"
        id="text3715">
       <path
          d="m 15.786441,133.68193 0.166015,1.31982 c -0.337568,0.0886 -0.64193,0.13282 -0.913085,0.13282 -0.42611,0 -0.769208,-0.0844 -1.029297,-0.25318 -0.260093,-0.16878 -0.43856,-0.39982 -0.535401,-0.69311 -0.09684,-0.29329 -0.145265,-0.87712 -0.145263,-1.75147 l 0,-5.07177 -0.896485,0 0,-1.16211 0.896485,0 0,-2.18311 1.220214,-0.89648 0,3.07959 1.236817,0 0,1.16211 -1.236817,0 0,5.15478 c -2e-6,0.47591 0.03597,0.78304 0.107911,0.92139 0.10514,0.19922 0.301592,0.29883 0.589355,0.29883 0.138343,0 0.318193,-0.0194 0.539551,-0.0581 z"
          style="fill:#333333"
-         id="path9117" />
+         id="path9117"
+         inkscape:connector-curvature="0" />
       <path
          d="m 16.940249,135.01836 0,-12.16895 1.220215,0 0,4.36621 c 0.287758,-0.40396 0.612872,-0.70694 0.975342,-0.90893 0.362464,-0.20198 0.762285,-0.30297 1.199463,-0.30298 0.769201,1e-5 1.376541,0.24488 1.822021,0.73462 0.445469,0.48975 0.668207,1.38762 0.668213,2.6936 l 0,5.58643 -1.220214,0 0,-5.58643 c -6e-6,-0.76366 -0.135585,-1.31152 -0.406739,-1.64355 -0.271164,-0.33203 -0.644698,-0.49804 -1.120605,-0.49805 -0.531254,1e-5 -0.983646,0.21306 -1.357178,0.63916 -0.373537,0.42611 -0.560305,1.18148 -0.560303,2.26611 l 0,4.82276 z"
          style="fill:#333333"
-         id="path9119" />
+         id="path9119"
+         inkscape:connector-curvature="0" />
       <path
          d="m 29.657046,132.17949 1.261719,0.19092 c -0.210293,0.94075 -0.590745,1.65047 -1.141357,2.12915 -0.550624,0.47868 -1.232671,0.71801 -2.046143,0.71802 -1.023766,-1e-5 -1.85246,-0.38876 -2.486084,-1.16626 -0.633627,-0.77751 -0.95044,-1.8995 -0.950439,-3.36597 -1e-6,-1.52181 0.319579,-2.68253 0.95874,-3.48218 0.639158,-0.79963 1.448483,-1.19945 2.427978,-1.19946 0.935217,1e-5 1.71549,0.39291 2.340821,1.17871 0.625318,0.78581 0.937981,1.92302 0.937988,3.41162 l -0.0083,0.39844 -5.395508,0 c 0.0498,0.99056 0.279458,1.73763 0.688965,2.24121 0.409503,0.50358 0.907549,0.75537 1.494141,0.75537 0.918615,0 1.557774,-0.60319 1.91748,-1.80957 z m -4.025879,-2.41553 4.03418,0 c -0.05534,-0.76366 -0.218593,-1.33365 -0.489746,-1.70996 -0.392909,-0.54784 -0.893722,-0.82177 -1.502441,-0.82178 -0.547855,1e-5 -1.015465,0.22828 -1.402832,0.68482 -0.387372,0.45655 -0.600425,1.07219 -0.639161,1.84692 z"
          style="fill:#333333"
-         id="path9121" />
+         id="path9121"
+         inkscape:connector-curvature="0" />
       <path
-         d="m 36.71271,135.01836 0,-7.65332 -1.087402,0 0,-1.16211 1.087402,0 0,-0.93799 c -1e-6,-0.69172 0.07194,-1.21052 0.215821,-1.5564 0.143878,-0.34585 0.363849,-0.61009 0.659912,-0.79272 0.296059,-0.18261 0.66821,-0.27392 1.116455,-0.27393 0.348629,1e-5 0.730465,0.0498 1.145508,0.14942 l -0.182617,1.30322 c -0.254562,-0.0553 -0.495284,-0.083 -0.722168,-0.083 -0.365238,10e-6 -0.626712,0.0955 -0.784424,0.28638 -0.157718,0.19093 -0.236575,0.55478 -0.236573,1.09155 l 0,0.81348 1.411133,0 0,1.16211 -1.411133,0 0,7.65332 z"
+         d="m 36.71271,135.01836 0,-7.65332 -1.087402,0 0,-1.16211 1.087402,0 0,-0.93799 c -1e-6,-0.69172 0.07194,-1.21052 0.215821,-1.5564 0.143878,-0.34585 0.363849,-0.61009 0.659912,-0.79272 0.296059,-0.18261 0.66821,-0.27392 1.116455,-0.27393 0.348629,1e-5 0.730465,0.0498 1.145508,0.14942 l -0.182617,1.30322 c -0.254562,-0.0553 -0.495284,-0.083 -0.722168,-0.083 -0.365238,1e-5 -0.626712,0.0955 -0.784424,0.28638 -0.157718,0.19093 -0.236575,0.55478 -0.236573,1.09155 l 0,0.81348 1.411133,0 0,1.16211 -1.411133,0 0,7.65332 z"
          style="fill:#333333"
-         id="path9123" />
+         id="path9123"
+         inkscape:connector-curvature="0" />
       <path
          d="m 40.248843,135.01836 0,-8.81543 1.104004,0 0,1.33642 c 0.282224,-0.61978 0.540932,-1.03067 0.776123,-1.23266 0.235186,-0.20198 0.499427,-0.30297 0.792725,-0.30298 0.409501,1e-5 0.827307,0.16049 1.253418,0.48144 l -0.415039,1.38623 c -0.304366,-0.21581 -0.600427,-0.32372 -0.888184,-0.32373 -0.260094,10e-6 -0.49805,0.0913 -0.713867,0.27393 -0.215823,0.18262 -0.368004,0.43718 -0.456543,0.76367 -0.15495,0.56999 -0.232424,1.17595 -0.232422,1.81787 l 0,4.61524 z"
          style="fill:#333333"
-         id="path9125" />
+         id="path9125"
+         inkscape:connector-curvature="0" />
       <path
          d="m 49.844546,132.17949 1.261719,0.19092 c -0.210293,0.94075 -0.590745,1.65047 -1.141357,2.12915 -0.550624,0.47868 -1.232671,0.71801 -2.046143,0.71802 -1.023766,-1e-5 -1.85246,-0.38876 -2.486084,-1.16626 -0.633627,-0.77751 -0.95044,-1.8995 -0.950439,-3.36597 -10e-7,-1.52181 0.319579,-2.68253 0.95874,-3.48218 0.639158,-0.79963 1.448483,-1.19945 2.427978,-1.19946 0.935217,1e-5 1.71549,0.39291 2.340821,1.17871 0.625318,0.78581 0.937981,1.92302 0.937988,3.41162 l -0.0083,0.39844 -5.395508,0 c 0.0498,0.99056 0.279458,1.73763 0.688965,2.24121 0.409503,0.50358 0.907549,0.75537 1.494141,0.75537 0.918615,0 1.557774,-0.60319 1.91748,-1.80957 z m -4.025879,-2.41553 4.03418,0 c -0.05534,-0.76366 -0.218593,-1.33365 -0.489746,-1.70996 -0.392909,-0.54784 -0.893722,-0.82177 -1.502441,-0.82178 -0.547855,1e-5 -1.015465,0.22828 -1.402832,0.68482 -0.387372,0.45655 -0.600425,1.07219 -0.639161,1.84692 z"
          style="fill:#333333"
-         id="path9127" />
+         id="path9127"
+         inkscape:connector-curvature="0" />
       <path
          d="m 57.614078,132.17949 1.261718,0.19092 c -0.210293,0.94075 -0.590745,1.65047 -1.141357,2.12915 -0.550624,0.47868 -1.232671,0.71801 -2.046143,0.71802 -1.023766,-1e-5 -1.852459,-0.38876 -2.486084,-1.16626 -0.633627,-0.77751 -0.95044,-1.8995 -0.950439,-3.36597 -10e-7,-1.52181 0.319579,-2.68253 0.95874,-3.48218 0.639158,-0.79963 1.448484,-1.19945 2.427979,-1.19946 0.935216,1e-5 1.715489,0.39291 2.34082,1.17871 0.625319,0.78581 0.937981,1.92302 0.937988,3.41162 l -0.0083,0.39844 -5.395507,0 c 0.0498,0.99056 0.279457,1.73763 0.688964,2.24121 0.409503,0.50358 0.907549,0.75537 1.494141,0.75537 0.918615,0 1.557775,-0.60319 1.917481,-1.80957 z m -4.025879,-2.41553 4.034179,0 c -0.05534,-0.76366 -0.218593,-1.33365 -0.489746,-1.70996 -0.392908,-0.54784 -0.893722,-0.82177 -1.502441,-0.82178 -0.547855,1e-5 -1.015465,0.22828 -1.402832,0.68482 -0.387372,0.45655 -0.600425,1.07219 -0.63916,1.84692 z"
          style="fill:#333333"
-         id="path9129" />
+         id="path9129"
+         inkscape:connector-curvature="0" />
       <path
-         d="m 64.669742,135.01836 0,-7.65332 -1.087403,0 0,-1.16211 1.087403,0 0,-0.93799 c -2e-6,-0.69172 0.07194,-1.21052 0.21582,-1.5564 0.143879,-0.34585 0.363849,-0.61009 0.659912,-0.79272 0.296059,-0.18261 0.66821,-0.27392 1.116455,-0.27393 0.348629,1e-5 0.730465,0.0498 1.145508,0.14942 l -0.182617,1.30322 c -0.254561,-0.0553 -0.495284,-0.083 -0.722168,-0.083 -0.365238,10e-6 -0.626712,0.0955 -0.784424,0.28638 -0.157717,0.19093 -0.236575,0.55478 -0.236572,1.09155 l 0,0.81348 1.411133,0 0,1.16211 -1.411133,0 0,7.65332 z"
+         d="m 64.669742,135.01836 0,-7.65332 -1.087403,0 0,-1.16211 1.087403,0 0,-0.93799 c -2e-6,-0.69172 0.07194,-1.21052 0.21582,-1.5564 0.143879,-0.34585 0.363849,-0.61009 0.659912,-0.79272 0.296059,-0.18261 0.66821,-0.27392 1.116455,-0.27393 0.348629,1e-5 0.730465,0.0498 1.145508,0.14942 l -0.182617,1.30322 c -0.254561,-0.0553 -0.495284,-0.083 -0.722168,-0.083 -0.365238,1e-5 -0.626712,0.0955 -0.784424,0.28638 -0.157717,0.19093 -0.236575,0.55478 -0.236572,1.09155 l 0,0.81348 1.411133,0 0,1.16211 -1.411133,0 0,7.65332 z"
          style="fill:#333333"
-         id="path9131" />
+         id="path9131"
+         inkscape:connector-curvature="0" />
       <path
          d="m 67.749331,130.61064 c 0,-1.5218 0.31958,-2.67008 0.958741,-3.44482 0.639158,-0.77473 1.448483,-1.1621 2.427978,-1.16211 0.962886,1e-5 1.768061,0.38738 2.415528,1.16211 0.647454,0.77474 0.971184,1.89258 0.971191,3.35351 -7e-6,1.58269 -0.318204,2.7614 -0.95459,3.53614 -0.636399,0.77474 -1.447108,1.1621 -2.432129,1.16211 -0.968427,-1e-5 -1.774986,-0.38876 -2.419678,-1.16626 -0.644694,-0.77751 -0.967041,-1.9244 -0.967041,-3.44068 z m 1.253418,0 c -10e-7,1.13998 0.207518,1.98804 0.622559,2.54419 0.415036,0.55615 0.929684,0.83423 1.543945,0.83423 0.575517,0 1.069413,-0.28084 1.48169,-0.84253 0.412266,-0.56168 0.618402,-1.40698 0.618408,-2.53589 -6e-6,-1.13443 -0.207525,-1.97973 -0.622559,-2.53589 -0.415044,-0.55614 -0.929691,-0.83422 -1.543945,-0.83423 -0.581058,1e-5 -1.076337,0.27947 -1.48584,0.83838 -0.409507,0.55893 -0.614259,1.40284 -0.614258,2.53174 z"
          style="fill:#333333"
-         id="path9133" />
+         id="path9133"
+         inkscape:connector-curvature="0" />
       <path
          d="m 75.518863,130.61064 c -10e-7,-1.5218 0.319579,-2.67008 0.95874,-3.44482 0.639158,-0.77473 1.448483,-1.1621 2.427978,-1.16211 0.962886,1e-5 1.768061,0.38738 2.415528,1.16211 0.647454,0.77474 0.971184,1.89258 0.971191,3.35351 -7e-6,1.58269 -0.318203,2.7614 -0.95459,3.53614 -0.636398,0.77474 -1.447107,1.1621 -2.432129,1.16211 -0.968427,-1e-5 -1.774985,-0.38876 -2.419677,-1.16626 -0.644695,-0.77751 -0.967042,-1.9244 -0.967041,-3.44068 z m 1.253418,0 c -2e-6,1.13998 0.207517,1.98804 0.622558,2.54419 0.415037,0.55615 0.929685,0.83423 1.543946,0.83423 0.575516,0 1.069412,-0.28084 1.481689,-0.84253 0.412266,-0.56168 0.618402,-1.40698 0.618408,-2.53589 -6e-6,-1.13443 -0.207525,-1.97973 -0.622558,-2.53589 -0.415044,-0.55614 -0.929692,-0.83422 -1.543946,-0.83423 -0.581058,1e-5 -1.076337,0.27947 -1.485839,0.83838 -0.409508,0.55893 -0.61426,1.40284 -0.614258,2.53174 z"
          style="fill:#333333"
-         id="path9135" />
+         id="path9135"
+         inkscape:connector-curvature="0" />
       <path
          d="m 88.434878,135.01836 0,-1.11231 c -0.221359,0.42611 -0.506352,0.75122 -0.85498,0.97534 -0.348637,0.22412 -0.724939,0.33618 -1.128906,0.33619 -0.852217,-1e-5 -1.589602,-0.40259 -2.212159,-1.20777 -0.622559,-0.80517 -0.933838,-1.93823 -0.933837,-3.39917 -10e-7,-1.00162 0.138345,-1.85107 0.415039,-2.54834 0.276691,-0.69726 0.646076,-1.21467 1.108154,-1.55224 0.462074,-0.33756 0.975339,-0.50634 1.539795,-0.50635 0.403967,1e-5 0.778885,0.10653 1.124756,0.31958 0.345861,0.21306 0.632237,0.5105 0.859131,0.89233 l 0,-4.36621 1.228515,0 0,12.16895 z m -3.876464,-4.39942 c -2e-6,1.13998 0.197833,1.98666 0.593505,2.54004 0.395668,0.55339 0.856361,0.83008 1.38208,0.83008 0.520179,0 0.971187,-0.26562 1.353028,-0.79688 0.38183,-0.53124 0.572748,-1.33365 0.572754,-2.40722 -6e-6,-1.23405 -0.190924,-2.13468 -0.572754,-2.70191 -0.381841,-0.56721 -0.863286,-0.85082 -1.444336,-0.85083 -0.514652,1e-5 -0.95736,0.27255 -1.328125,0.81763 -0.37077,0.54509 -0.556154,1.40145 -0.556152,2.56909 z"
          style="fill:#333333"
-         id="path9137" />
+         id="path9137"
+         inkscape:connector-curvature="0" />
       <path
          d="m 95.399234,138.39677 0,-12.19384 1.120605,0 0,1.1455 c 0.276691,-0.4759 0.583819,-0.819 0.921387,-1.02929 0.337562,-0.21028 0.724931,-0.31542 1.162109,-0.31543 0.569983,1e-5 1.084631,0.16879 1.543945,0.50635 0.4593,0.33757 0.82869,0.85083 1.10815,1.53979 0.27946,0.68897 0.41919,1.51767 0.41919,2.48608 0,1.49968 -0.31405,2.65487 -0.94213,3.46558 -0.6281,0.81071 -1.365488,1.21606 -2.212162,1.21607 -0.376306,-1e-5 -0.727706,-0.0968 -1.0542,-0.29053 -0.3265,-0.19369 -0.608726,-0.46761 -0.846679,-0.82178 l 0,4.2915 z m 1.104004,-7.73632 c -2e-6,1.13997 0.190916,1.97973 0.572754,2.51928 0.381833,0.53956 0.843909,0.80933 1.38623,0.80933 0.520178,0 0.97672,-0.27946 1.369629,-0.83838 0.392899,-0.55892 0.589349,-1.4222 0.589359,-2.58984 -1e-5,-1.15104 -0.19093,-2.00325 -0.572757,-2.55664 -0.381841,-0.55338 -0.846685,-0.83007 -1.394532,-0.83008 -0.492516,1e-5 -0.940758,0.29745 -1.344726,0.89233 -0.403974,0.5949 -0.605959,1.45956 -0.605957,2.594 z"
          style="fill:#333333"
-         id="path9139" />
+         id="path9139"
+         inkscape:connector-curvature="0" />
       <path
          d="m 103.16877,135.01836 0,-8.81543 1.104,0 0,1.33642 c 0.28222,-0.61978 0.54093,-1.03067 0.77612,-1.23266 0.23519,-0.20198 0.49943,-0.30297 0.79273,-0.30298 0.4095,1e-5 0.8273,0.16049 1.25341,0.48144 l -0.41503,1.38623 c -0.30437,-0.21581 -0.60043,-0.32372 -0.88819,-0.32373 -0.26009,10e-6 -0.49805,0.0913 -0.71387,0.27393 -0.21582,0.18262 -0.368,0.43718 -0.45654,0.76367 -0.15495,0.56999 -0.23242,1.17595 -0.23242,1.81787 l 0,4.61524 z"
          style="fill:#333333"
-         id="path9141" />
+         id="path9141"
+         inkscape:connector-curvature="0" />
       <path
          d="m 107.36066,130.61064 c 0,-1.5218 0.31958,-2.67008 0.95874,-3.44482 0.63916,-0.77473 1.44848,-1.1621 2.42798,-1.16211 0.96288,1e-5 1.76806,0.38738 2.41553,1.16211 0.64745,0.77474 0.97118,1.89258 0.97119,3.35351 -1e-5,1.58269 -0.31821,2.7614 -0.95459,3.53614 -0.6364,0.77474 -1.44711,1.1621 -2.43213,1.16211 -0.96843,-1e-5 -1.77499,-0.38876 -2.41968,-1.16626 -0.64469,-0.77751 -0.96704,-1.9244 -0.96704,-3.44068 z m 1.25342,0 c 0,1.13998 0.20752,1.98804 0.62256,2.54419 0.41503,0.55615 0.92968,0.83423 1.54394,0.83423 0.57552,0 1.06941,-0.28084 1.48169,-0.84253 0.41227,-0.56168 0.6184,-1.40698 0.61841,-2.53589 -1e-5,-1.13443 -0.20753,-1.97973 -0.62256,-2.53589 -0.41504,-0.55614 -0.92969,-0.83422 -1.54394,-0.83423 -0.58106,1e-5 -1.07634,0.27947 -1.48584,0.83838 -0.40951,0.55893 -0.61426,1.40284 -0.61426,2.53174 z"
          style="fill:#333333"
-         id="path9143" />
+         id="path9143"
+         inkscape:connector-curvature="0" />
       <path
          d="m 120.27668,135.01836 0,-1.11231 c -0.22136,0.42611 -0.50636,0.75122 -0.85499,0.97534 -0.34863,0.22412 -0.72493,0.33618 -1.1289,0.33619 -0.85222,-1e-5 -1.5896,-0.40259 -2.21216,-1.20777 -0.62256,-0.80517 -0.93384,-1.93823 -0.93384,-3.39917 0,-1.00162 0.13835,-1.85107 0.41504,-2.54834 0.27669,-0.69726 0.64608,-1.21467 1.10816,-1.55224 0.46207,-0.33756 0.97533,-0.50634 1.53979,-0.50635 0.40397,1e-5 0.77889,0.10653 1.12476,0.31958 0.34586,0.21306 0.63223,0.5105 0.85913,0.89233 l 0,-4.36621 1.22851,0 0,12.16895 z m -3.87647,-4.39942 c 0,1.13998 0.19783,1.98666 0.59351,2.54004 0.39566,0.55339 0.85636,0.83008 1.38208,0.83008 0.52017,0 0.97118,-0.26562 1.35302,-0.79688 0.38183,-0.53124 0.57275,-1.33365 0.57276,-2.40722 -1e-5,-1.23405 -0.19093,-2.13468 -0.57276,-2.70191 -0.38184,-0.56721 -0.86328,-0.85082 -1.44433,-0.85083 -0.51465,1e-5 -0.95736,0.27255 -1.32813,0.81763 -0.37077,0.54509 -0.55615,1.40145 -0.55615,2.56909 z"
          style="fill:#333333"
-         id="path9145" />
+         id="path9145"
+         inkscape:connector-curvature="0" />
       <path
          d="m 128.09601,135.01836 0,-1.29493 c -0.28223,0.49805 -0.61426,0.87159 -0.99609,1.12061 -0.38184,0.24902 -0.81348,0.37353 -1.29492,0.37354 -0.56999,-1e-5 -1.05697,-0.15357 -1.46094,-0.4607 -0.40397,-0.30713 -0.67375,-0.69588 -0.80933,-1.16626 -0.13558,-0.47037 -0.20337,-1.1123 -0.20337,-1.92578 l 0,-5.46191 1.22022,0 0,4.88916 c 0,0.90755 0.0456,1.51489 0.13696,1.82202 0.0913,0.30713 0.26009,0.55339 0.50635,0.73877 0.24625,0.18538 0.52709,0.27808 0.84253,0.27807 0.58658,1e-5 1.06803,-0.24072 1.44433,-0.72216 0.32096,-0.41504 0.48144,-1.17595 0.48145,-2.28272 l 0,-4.72314 1.22851,0 0,8.81543 z"
          style="fill:#333333"
-         id="path9147" />
+         id="path9147"
+         inkscape:connector-curvature="0" />
       <path
          d="m 135.86554,131.78935 1.20362,0.19092 c -0.13836,1.05143 -0.48561,1.85384 -1.04175,2.40723 -0.55616,0.55338 -1.22437,0.83007 -2.00464,0.83008 -0.94629,-1e-5 -1.72518,-0.38876 -2.33667,-1.16626 -0.61149,-0.77751 -0.91724,-1.92717 -0.91724,-3.44898 0,-1.53287 0.30851,-2.68253 0.92554,-3.44897 0.61702,-0.76643 1.40975,-1.14965 2.37817,-1.14966 0.74707,1e-5 1.37654,0.23243 1.88843,0.69726 0.51188,0.46486 0.83976,1.16212 0.98364,2.0918 l -1.18701,0.22412 c -0.11621,-0.59765 -0.3182,-1.04451 -0.60595,-1.34057 -0.28777,-0.29606 -0.63364,-0.44409 -1.0376,-0.4441 -0.6032,1e-5 -1.10263,0.26702 -1.49829,0.80103 -0.39568,0.53402 -0.59351,1.38208 -0.59351,2.54419 0,1.20085 0.18953,2.06966 0.5686,2.60644 0.37907,0.53679 0.86467,0.80518 1.45679,0.80518 0.46484,0 0.86189,-0.17847 1.19116,-0.5354 0.32926,-0.35693 0.53817,-0.9117 0.62671,-1.66431 z"
          style="fill:#333333"
-         id="path9149" />
+         id="path9149"
+         inkscape:connector-curvature="0" />
       <path
          d="m 140.82941,133.68193 0.16602,1.31982 c -0.33757,0.0886 -0.64194,0.13282 -0.91309,0.13282 -0.42611,0 -0.76921,-0.0844 -1.0293,-0.25318 -0.26009,-0.16878 -0.43856,-0.39982 -0.5354,-0.69311 -0.0968,-0.29329 -0.14526,-0.87712 -0.14526,-1.75147 l 0,-5.07177 -0.89649,0 0,-1.16211 0.89649,0 0,-2.18311 1.22021,-0.89648 0,3.07959 1.23682,0 0,1.16211 -1.23682,0 0,5.15478 c 0,0.47591 0.036,0.78304 0.10791,0.92139 0.10514,0.19922 0.3016,0.29883 0.58936,0.29883 0.13834,0 0.31819,-0.0194 0.53955,-0.0581 z"
          style="fill:#333333"
-         id="path9151" />
+         id="path9151"
+         inkscape:connector-curvature="0" />
       <path
          d="m 141.51837,132.38701 1.21192,-0.23242 c 0.0719,0.61979 0.26839,1.08048 0.58935,1.38208 0.32096,0.30159 0.74707,0.45239 1.27832,0.45239 0.53125,0 0.94214,-0.13143 1.23267,-0.39429 0.29052,-0.26285 0.43579,-0.59627 0.43579,-1.00024 0,-0.34863 -0.12452,-0.61979 -0.37353,-0.81348 -0.17156,-0.13281 -0.5866,-0.29882 -1.24512,-0.49805 -0.95183,-0.29329 -1.58822,-0.54231 -1.90918,-0.74707 -0.32097,-0.20474 -0.56999,-0.47867 -0.74707,-0.82177 -0.17709,-0.3431 -0.26563,-0.73323 -0.26563,-1.17041 0,-0.7526 0.24073,-1.36409 0.72217,-1.83448 0.48145,-0.47036 1.14827,-0.70555 2.00049,-0.70556 0.53678,1e-5 1.00854,0.0969 1.41528,0.29053 0.40674,0.19369 0.71802,0.45378 0.93384,0.78027 0.21582,0.3265 0.36523,0.79411 0.44824,1.40283 l -1.19531,0.19922 c -0.11068,-0.96288 -0.63363,-1.44433 -1.56885,-1.44434 -0.53125,1e-5 -0.92692,0.10654 -1.18701,0.31958 -0.26009,0.21306 -0.39014,0.48561 -0.39014,0.81763 0,0.3265 0.12451,0.58383 0.37354,0.77197 0.14941,0.11069 0.59212,0.28777 1.32813,0.53125 1.01269,0.32651 1.66845,0.58521 1.96728,0.77613 0.29882,0.19092 0.53124,0.45101 0.69727,0.78027 0.16601,0.32927 0.24901,0.72079 0.24902,1.17456 -10e-6,0.84115 -0.26702,1.52181 -0.80103,2.04199 -0.53402,0.52018 -1.2631,0.78028 -2.18725,0.78028 -1.7321,0 -2.73649,-0.94629 -3.01319,-2.83887 z"
          style="fill:#333333"
-         id="path9153" />
+         id="path9153"
+         inkscape:connector-curvature="0" />
       <path
          d="m 157.53058,135.01836 0,-1.11231 c -0.22136,0.42611 -0.50635,0.75122 -0.85498,0.97534 -0.34864,0.22412 -0.72494,0.33618 -1.12891,0.33619 -0.85221,-1e-5 -1.5896,-0.40259 -2.21215,-1.20777 -0.62256,-0.80517 -0.93384,-1.93823 -0.93384,-3.39917 0,-1.00162 0.13834,-1.85107 0.41504,-2.54834 0.27669,-0.69726 0.64607,-1.21467 1.10815,-1.55224 0.46208,-0.33756 0.97534,-0.50634 1.5398,-0.50635 0.40396,1e-5 0.77888,0.10653 1.12475,0.31958 0.34586,0.21306 0.63224,0.5105 0.85913,0.89233 l 0,-4.36621 1.22852,0 0,12.16895 z m -3.87646,-4.39942 c -1e-5,1.13998 0.19783,1.98666 0.5935,2.54004 0.39567,0.55339 0.85636,0.83008 1.38208,0.83008 0.52018,0 0.97119,-0.26562 1.35303,-0.79688 0.38183,-0.53124 0.57275,-1.33365 0.57275,-2.40722 0,-1.23405 -0.19092,-2.13468 -0.57275,-2.70191 -0.38184,-0.56721 -0.86329,-0.85082 -1.44434,-0.85083 -0.51465,1e-5 -0.95736,0.27255 -1.32812,0.81763 -0.37077,0.54509 -0.55616,1.40145 -0.55615,2.56909 z"
          style="fill:#333333"
-         id="path9155" />
+         id="path9155"
+         inkscape:connector-curvature="0" />
       <path
          d="m 165.32502,133.93095 c -0.40952,0.42611 -0.83562,0.74707 -1.27833,0.96289 -0.44271,0.21582 -0.90202,0.32373 -1.37792,0.32374 -0.75261,-1e-5 -1.35303,-0.22689 -1.80127,-0.68067 -0.44825,-0.45377 -0.67237,-1.06526 -0.67237,-1.83447 0,-0.50911 0.10514,-0.96012 0.31543,-1.35303 0.21029,-0.3929 0.49805,-0.70003 0.86328,-0.92139 0.36524,-0.22135 0.91862,-0.38459 1.66016,-0.48974 0.99609,-0.14388 1.72656,-0.31543 2.19141,-0.51465 l 0.008,-0.38184 c -1e-5,-0.60318 -0.10792,-1.02652 -0.32373,-1.27002 -0.30437,-0.35415 -0.77198,-0.53124 -1.40284,-0.53125 -0.56999,1e-5 -0.99609,0.11761 -1.27832,0.35279 -0.28223,0.23519 -0.48974,0.67652 -0.62255,1.32397 l -1.20362,-0.19922 c 0.17155,-0.94628 0.5188,-1.63524 1.04175,-2.06689 0.52295,-0.43163 1.2714,-0.64745 2.24536,-0.64746 0.75813,1e-5 1.35302,0.1425 1.78467,0.42749 0.43163,0.285 0.70418,0.63778 0.81763,1.05835 0.11343,0.42058 0.17016,1.03483 0.17016,1.84277 l 0,1.99219 c 0,1.39453 0.0263,2.27303 0.0789,2.6355 0.0526,0.36246 0.15632,0.71525 0.31128,1.05835 l -1.27832,0 c -0.12729,-0.30437 -0.21029,-0.66683 -0.24902,-1.08741 z m -0.0996,-3.33691 c -0.44825,0.22136 -1.11508,0.40951 -2.00049,0.56445 -0.51465,0.0885 -0.87435,0.18954 -1.0791,0.30298 -0.20476,0.11345 -0.36386,0.27393 -0.4773,0.48145 -0.11344,0.20752 -0.17017,0.44686 -0.17017,0.71801 0,0.42058 0.13005,0.75676 0.39014,1.00855 0.26009,0.25179 0.61979,0.37769 1.0791,0.37768 0.43717,1e-5 0.83423,-0.11344 1.19117,-0.34033 0.35692,-0.22688 0.62393,-0.52986 0.80102,-0.90893 0.17708,-0.37907 0.26562,-0.93107 0.26563,-1.65601 z"
          style="fill:#333333"
-         id="path9157" />
+         id="path9157"
+         inkscape:connector-curvature="0" />
       <path
          d="m 171.11066,133.68193 0.16602,1.31982 c -0.33757,0.0886 -0.64194,0.13282 -0.91309,0.13282 -0.42611,0 -0.76921,-0.0844 -1.0293,-0.25318 -0.26009,-0.16878 -0.43856,-0.39982 -0.5354,-0.69311 -0.0968,-0.29329 -0.14526,-0.87712 -0.14526,-1.75147 l 0,-5.07177 -0.89649,0 0,-1.16211 0.89649,0 0,-2.18311 1.22021,-0.89648 0,3.07959 1.23682,0 0,1.16211 -1.23682,0 0,5.15478 c 0,0.47591 0.036,0.78304 0.10791,0.92139 0.10514,0.19922 0.3016,0.29883 0.58936,0.29883 0.13834,0 0.31819,-0.0194 0.53955,-0.0581 z"
          style="fill:#333333"
-         id="path9159" />
+         id="path9159"
+         inkscape:connector-curvature="0" />
       <path
          d="m 176.97931,133.93095 c -0.40951,0.42611 -0.83561,0.74707 -1.27832,0.96289 -0.44271,0.21582 -0.90202,0.32373 -1.37793,0.32374 -0.7526,-1e-5 -1.35303,-0.22689 -1.80127,-0.68067 -0.44824,-0.45377 -0.67236,-1.06526 -0.67236,-1.83447 0,-0.50911 0.10514,-0.96012 0.31543,-1.35303 0.21028,-0.3929 0.49804,-0.70003 0.86328,-0.92139 0.36523,-0.22135 0.91862,-0.38459 1.66016,-0.48974 0.99609,-0.14388 1.72655,-0.31543 2.1914,-0.51465 l 0.008,-0.38184 c 0,-0.60318 -0.10791,-1.02652 -0.32373,-1.27002 -0.30436,-0.35415 -0.77197,-0.53124 -1.40283,-0.53125 -0.56999,1e-5 -0.9961,0.11761 -1.27832,0.35279 -0.28223,0.23519 -0.48975,0.67652 -0.62256,1.32397 l -1.20361,-0.19922 c 0.17155,-0.94628 0.5188,-1.63524 1.04175,-2.06689 0.52294,-0.43163 1.2714,-0.64745 2.24536,-0.64746 0.75813,1e-5 1.35302,0.1425 1.78467,0.42749 0.43163,0.285 0.70417,0.63778 0.81762,1.05835 0.11344,0.42058 0.17016,1.03483 0.17017,1.84277 l 0,1.99219 c -1e-5,1.39453 0.0263,2.27303 0.0789,2.6355 0.0526,0.36246 0.15632,0.71525 0.31128,1.05835 l -1.27832,0 c -0.12729,-0.30437 -0.2103,-0.66683 -0.24903,-1.08741 z m -0.0996,-3.33691 c -0.44824,0.22136 -1.11507,0.40951 -2.00049,0.56445 -0.51465,0.0885 -0.87435,0.18954 -1.0791,0.30298 -0.20475,0.11345 -0.36385,0.27393 -0.47729,0.48145 -0.11345,0.20752 -0.17017,0.44686 -0.17017,0.71801 0,0.42058 0.13005,0.75676 0.39014,1.00855 0.26009,0.25179 0.61979,0.37769 1.0791,0.37768 0.43717,1e-5 0.83422,-0.11344 1.19116,-0.34033 0.35693,-0.22688 0.62394,-0.52986 0.80103,-0.90893 0.17708,-0.37907 0.26562,-0.93107 0.26562,-1.65601 z"
          style="fill:#333333"
-         id="path9161" />
+         id="path9161"
+         inkscape:connector-curvature="0" />
       <path
          d="m 181.16291,135.01836 -1.13721,0 0,-12.16895 1.22021,0 0,4.34131 c 0.26009,-0.39843 0.55477,-0.69587 0.88404,-0.89233 0.32926,-0.19645 0.69588,-0.29467 1.09985,-0.29468 0.56445,1e-5 1.07771,0.16879 1.5398,0.50635 0.46207,0.33757 0.83145,0.84945 1.10815,1.53564 0.27669,0.6862 0.41503,1.51905 0.41504,2.49854 -1e-5,1.49414 -0.31267,2.64656 -0.93799,3.45727 -0.62533,0.81071 -1.3558,1.21606 -2.19141,1.21607 -0.42057,-1e-5 -0.79826,-0.1093 -1.13305,-0.32789 -0.3348,-0.21858 -0.62395,-0.5437 -0.86743,-0.97534 z m -0.0166,-4.47412 c 0,0.91308 0.083,1.59652 0.24903,2.05029 0.16601,0.45378 0.4012,0.79964 0.70556,1.0376 0.30436,0.23795 0.64193,0.35693 1.0127,0.35693 0.50358,0 0.95043,-0.28361 1.34058,-0.85083 0.39013,-0.56722 0.58519,-1.41528 0.5852,-2.54419 -1e-5,-1.15657 -0.18816,-2.00602 -0.56445,-2.54834 -0.37631,-0.54231 -0.83839,-0.81347 -1.38623,-0.81348 -0.50359,1e-5 -0.95321,0.28362 -1.34888,0.85083 -0.39567,0.56723 -0.59351,1.38762 -0.59351,2.46119 z"
          style="fill:#333333"
-         id="path9163" />
+         id="path9163"
+         inkscape:connector-curvature="0" />
       <path
-         d="m 192.51837,133.93095 c -0.40951,0.42611 -0.83561,0.74707 -1.27832,0.96289 -0.44271,0.21582 -0.90202,0.32373 -1.37793,0.32374 -0.7526,-1e-5 -1.35302,-0.22689 -1.80127,-0.68067 -0.44824,-0.45377 -0.67236,-1.06526 -0.67236,-1.83447 0,-0.50911 0.10514,-0.96012 0.31543,-1.35303 0.21029,-0.3929 0.49805,-0.70003 0.86328,-0.92139 0.36523,-0.22135 0.91862,-0.38459 1.66016,-0.48974 0.99609,-0.14388 1.72656,-0.31543 2.19141,-0.51465 l 0.008,-0.38184 c -10e-6,-0.60318 -0.10792,-1.02652 -0.32373,-1.27002 -0.30437,-0.35415 -0.77198,-0.53124 -1.40284,-0.53125 -0.56999,1e-5 -0.99609,0.11761 -1.27832,0.35279 -0.28223,0.23519 -0.48975,0.67652 -0.62256,1.32397 l -1.20361,-0.19922 c 0.17155,-0.94628 0.5188,-1.63524 1.04175,-2.06689 0.52295,-0.43163 1.2714,-0.64745 2.24536,-0.64746 0.75813,1e-5 1.35302,0.1425 1.78467,0.42749 0.43163,0.285 0.70417,0.63778 0.81763,1.05835 0.11343,0.42058 0.17015,1.03483 0.17016,1.84277 l 0,1.99219 c -10e-6,1.39453 0.0263,2.27303 0.0789,2.6355 0.0526,0.36246 0.15632,0.71525 0.31128,1.05835 l -1.27832,0 c -0.12729,-0.30437 -0.21029,-0.66683 -0.24903,-1.08741 z m -0.0996,-3.33691 c -0.44825,0.22136 -1.11508,0.40951 -2.00049,0.56445 -0.51465,0.0885 -0.87435,0.18954 -1.0791,0.30298 -0.20476,0.11345 -0.36386,0.27393 -0.4773,0.48145 -0.11345,0.20752 -0.17017,0.44686 -0.17017,0.71801 0,0.42058 0.13005,0.75676 0.39014,1.00855 0.26009,0.25179 0.61979,0.37769 1.0791,0.37768 0.43717,1e-5 0.83423,-0.11344 1.19116,-0.34033 0.35693,-0.22688 0.62394,-0.52986 0.80103,-0.90893 0.17708,-0.37907 0.26562,-0.93107 0.26563,-1.65601 z"
+         d="m 192.51837,133.93095 c -0.40951,0.42611 -0.83561,0.74707 -1.27832,0.96289 -0.44271,0.21582 -0.90202,0.32373 -1.37793,0.32374 -0.7526,-1e-5 -1.35302,-0.22689 -1.80127,-0.68067 -0.44824,-0.45377 -0.67236,-1.06526 -0.67236,-1.83447 0,-0.50911 0.10514,-0.96012 0.31543,-1.35303 0.21029,-0.3929 0.49805,-0.70003 0.86328,-0.92139 0.36523,-0.22135 0.91862,-0.38459 1.66016,-0.48974 0.99609,-0.14388 1.72656,-0.31543 2.19141,-0.51465 l 0.008,-0.38184 c -1e-5,-0.60318 -0.10792,-1.02652 -0.32373,-1.27002 -0.30437,-0.35415 -0.77198,-0.53124 -1.40284,-0.53125 -0.56999,1e-5 -0.99609,0.11761 -1.27832,0.35279 -0.28223,0.23519 -0.48975,0.67652 -0.62256,1.32397 l -1.20361,-0.19922 c 0.17155,-0.94628 0.5188,-1.63524 1.04175,-2.06689 0.52295,-0.43163 1.2714,-0.64745 2.24536,-0.64746 0.75813,1e-5 1.35302,0.1425 1.78467,0.42749 0.43163,0.285 0.70417,0.63778 0.81763,1.05835 0.11343,0.42058 0.17015,1.03483 0.17016,1.84277 l 0,1.99219 c -1e-5,1.39453 0.0263,2.27303 0.0789,2.6355 0.0526,0.36246 0.15632,0.71525 0.31128,1.05835 l -1.27832,0 c -0.12729,-0.30437 -0.21029,-0.66683 -0.24903,-1.08741 z m -0.0996,-3.33691 c -0.44825,0.22136 -1.11508,0.40951 -2.00049,0.56445 -0.51465,0.0885 -0.87435,0.18954 -1.0791,0.30298 -0.20476,0.11345 -0.36386,0.27393 -0.4773,0.48145 -0.11345,0.20752 -0.17017,0.44686 -0.17017,0.71801 0,0.42058 0.13005,0.75676 0.39014,1.00855 0.26009,0.25179 0.61979,0.37769 1.0791,0.37768 0.43717,1e-5 0.83423,-0.11344 1.19116,-0.34033 0.35693,-0.22688 0.62394,-0.52986 0.80103,-0.90893 0.17708,-0.37907 0.26562,-0.93107 0.26563,-1.65601 z"
          style="fill:#333333"
-         id="path9165" />
+         id="path9165"
+         inkscape:connector-curvature="0" />
       <path
          d="m 195.10822,132.38701 1.21191,-0.23242 c 0.0719,0.61979 0.26839,1.08048 0.58936,1.38208 0.32096,0.30159 0.74707,0.45239 1.27832,0.45239 0.53124,0 0.94213,-0.13143 1.23266,-0.39429 0.29053,-0.26285 0.43579,-0.59627 0.4358,-1.00024 -1e-5,-0.34863 -0.12452,-0.61979 -0.37354,-0.81348 -0.17155,-0.13281 -0.58659,-0.29882 -1.24512,-0.49805 -0.95182,-0.29329 -1.58822,-0.54231 -1.90918,-0.74707 -0.32096,-0.20474 -0.56999,-0.47867 -0.74707,-0.82177 -0.17708,-0.3431 -0.26562,-0.73323 -0.26562,-1.17041 0,-0.7526 0.24072,-1.36409 0.72217,-1.83448 0.48144,-0.47036 1.14827,-0.70555 2.00048,-0.70556 0.53678,1e-5 1.00854,0.0969 1.41529,0.29053 0.40673,0.19369 0.71801,0.45378 0.93384,0.78027 0.21581,0.3265 0.36522,0.79411 0.44824,1.40283 l -1.19532,0.19922 c -0.11068,-0.96288 -0.63363,-1.44433 -1.56884,-1.44434 -0.53126,1e-5 -0.92693,0.10654 -1.18701,0.31958 -0.2601,0.21306 -0.39014,0.48561 -0.39014,0.81763 0,0.3265 0.12451,0.58383 0.37353,0.77197 0.14942,0.11069 0.59212,0.28777 1.32813,0.53125 1.01269,0.32651 1.66845,0.58521 1.96728,0.77613 0.29883,0.19092 0.53125,0.45101 0.69727,0.78027 0.16601,0.32927 0.24902,0.72079 0.24902,1.17456 0,0.84115 -0.26701,1.52181 -0.80102,2.04199 -0.53402,0.52018 -1.26311,0.78028 -2.18726,0.78028 -1.7321,0 -2.73649,-0.94629 -3.01318,-2.83887 z"
          style="fill:#333333"
-         id="path9167" />
+         id="path9167"
+         inkscape:connector-curvature="0" />
       <path
          d="m 207.49298,132.17949 1.26172,0.19092 c -0.21029,0.94075 -0.59074,1.65047 -1.14135,2.12915 -0.55063,0.47868 -1.23268,0.71801 -2.04615,0.71802 -1.02376,-1e-5 -1.85246,-0.38876 -2.48608,-1.16626 -0.63363,-0.77751 -0.95044,-1.8995 -0.95044,-3.36597 0,-1.52181 0.31958,-2.68253 0.95874,-3.48218 0.63916,-0.79963 1.44848,-1.19945 2.42798,-1.19946 0.93521,1e-5 1.71549,0.39291 2.34082,1.17871 0.62532,0.78581 0.93798,1.92302 0.93799,3.41162 l -0.008,0.39844 -5.39551,0 c 0.0498,0.99056 0.27946,1.73763 0.68896,2.24121 0.40951,0.50358 0.90755,0.75537 1.49414,0.75537 0.91862,0 1.55778,-0.60319 1.91748,-1.80957 z m -4.02588,-2.41553 4.03418,0 c -0.0553,-0.76366 -0.21859,-1.33365 -0.48974,-1.70996 -0.39291,-0.54784 -0.89372,-0.82177 -1.50244,-0.82178 -0.54786,1e-5 -1.01547,0.22828 -1.40283,0.68482 -0.38738,0.45655 -0.60043,1.07219 -0.63917,1.84692 z"
          style="fill:#333333"
-         id="path9169" />
+         id="path9169"
+         inkscape:connector-curvature="0" />
     </g>
     <rect
        id="rect3719"
        width="5"
        height="5"
        x="121"
-       y="9.5"
+       y="9"
        style="fill:none"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        inkscape:export-xdpi="180"
@@ -1268,7 +1288,7 @@
        inkscape:export-xdpi="180"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-356.png"
        style="fill:none"
-       y="9.5"
+       y="9"
        x="121"
        height="5"
        width="5"
@@ -1279,25 +1299,9 @@
        width="1"
        height="1"
        x="12"
-       y="149.5"
+       y="152"
        inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-fr.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <text
-       transform="scale(0.90339875,1.1069309)"
-       sodipodi:linespacing="125%"
-       id="text9112"
-       y="180.67975"
-       x="12.158999"
-       style="font-size:17px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Arial Narrow;-inkscape-font-specification:Arial Narrow"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Users\Stéphane\Desktop\Blogs\OpenFoodFacts\openfoodfacts-logo-fr.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         y="180.67975"
-         x="12.158999"
-         id="tspan9114"
-         sodipodi:role="line"
-         style="font-size:17px;fill:#333333;fill-opacity:1">the free food products database</tspan></text>
   </g>
 </svg>
