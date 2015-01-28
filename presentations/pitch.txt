@@ -1,0 +1,19 @@
+I'm here to present the Open Food Facts project.
+Basicaly we provide a free and open database.
+Open Food Facts is wikipedia for food products.
+It is a collaborative, crowdsourced effort to scan barcode, take picture, get nutrition data and list of ingredients.
+We have over 31 thousand products spanning 113 countries and territories, added by just over 1400 contributors.
+That is 1400 people like you and me with access to a web browser and a fridge and/or a cupboard.
+Use, contribution and re-use is free as in free beer and free as in freedom.
+It means you can use the data, reproduce the data even for commercial use.
+We only require attribution and share alike for sites and applications that use our data.
+Few example of the potential for re-use are available.
+One let's you play and try to guess how much sugar is in a given product.
+Another one let me know what product are made near me.
+My last exemple is a commercial app called "expiry date" that sends us the expiry date they collect from the app.
+There are many other in the wild since there is no registration involved.
+If you think that you could or contribute data, we would be delighted to have a chat about it.
+So far we have about  1600 products sold in the UK only.
+We are currently making a big push in the uk to collect a critical mass of product data.
+Feel free to engage with us on twitter @openfoodfacts/@openfoodfactsuk, we love to get feedabck.
+I'm giving away stickers, you can use that excuse to start and talk to us.
