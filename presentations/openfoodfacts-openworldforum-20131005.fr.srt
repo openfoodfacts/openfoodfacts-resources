@@ -1,0 +1,1226 @@
+1
+00:00:00,000 --> 00:00:00,500
+
+
+2
+00:00:11,219 --> 00:00:14,419
+Quand on parle de
+données ouvertes, on pense souvent aux
+
+3
+00:00:14,419 --> 00:00:15,529
+données publiques…
+
+4
+00:00:15,529 --> 00:00:18,560
+Mais il y a aussi plein d'autres données
+qui sont intéressantes pour notre vie
+
+5
+00:00:18,560 --> 00:00:24,220
+de tous les jours et c'est les données que les entreprises connaissent.
+
+6
+00:00:24,220 --> 00:00:27,929
+Il y a un domaine en particulier qui est intéressant, c'est
+
+7
+00:00:27,929 --> 00:00:31,160
+l'alimentation, ou ce n'est pas des données
+publiques mais c'est des données
+
+8
+00:00:31,160 --> 00:00:32,400
+d'intérêt public.
+
+9
+00:00:32,400 --> 00:00:35,310
+Je vais vous présenter
+aujourd'hui Open Food Facts qui est une
+
+10
+00:00:35,310 --> 00:00:37,000
+façon d'ouvrir
+
+11
+00:00:37,000 --> 00:00:43,310
+des données qui sont des
+données detenues par les entreprises.
+
+12
+00:00:43,310 --> 00:00:49,510
+On l'a vu avec les crises sur la taxe sur l'huile de palme,
+
+13
+00:00:49,510 --> 00:00:54,460
+avec l'affaire Findus…que
+l'industrie alimentaire n'est pas
+
+14
+00:00:54,460 --> 00:00:57,450
+toujours très transparente
+
+15
+00:00:57,450 --> 00:00:58,270
+
+
+16
+00:00:58,270 --> 00:01:02,230
+Ce manque de transparence finalement
+n'est bénéfique pour personne : Ce n'est pas
+
+17
+00:01:02,230 --> 00:01:04,780
+bénéfique pour le consommateur qui ne sait pas ce qu'il mange
+
+18
+00:01:04,780 --> 00:01:06,200
+et qui ne peut pas choisir
+
+19
+00:01:06,200 --> 00:01:09,970
+Ce n'est pas bénéfique pour l'environnement : on le voit avec l'huile de
+
+20
+00:01:09,970 --> 00:01:13,020
+palme, la déforestation en
+Malaisie et en Indonésie
+
+21
+00:01:13,020 --> 00:01:16,830
+et finalement ce n'est pas bénéfique non
+plus pour les entreprises puisqu'il y a
+
+22
+00:01:16,830 --> 00:01:18,280
+un manque de confiance
+
+23
+00:01:18,280 --> 00:01:21,520
+qui s'installe.
+
+24
+00:01:21,520 --> 00:01:26,240
+Du coup, on s'est dit : si des citoyens peuvent créer la plus grande
+
+25
+00:01:26,240 --> 00:01:27,870
+encyclopédie du monde
+
+26
+00:01:27,870 --> 00:01:31,340
+s'ils peuvent se mettre ensemble et créer une carte du monde qui soit plus
+
+27
+00:01:31,340 --> 00:01:33,550
+détaillée que celle de Google
+
+28
+00:01:33,550 --> 00:01:37,620
+Pourquoi est-ce que nous aussi on essaierait pas de créer une base de données sur les
+
+29
+00:01:37,620 --> 00:01:38,820
+produits alimentaires ?
+
+30
+00:01:38,820 --> 00:01:43,930
+Et c'est comme ça que il y a un an et demi a démarré Open Food Facts.
+
+31
+00:01:43,930 --> 00:01:46,890
+Open Food Facts, c'est une base de données
+
+32
+00:01:46,890 --> 00:01:49,860
+qui fonctionne un peu sur le même principe que Wikipédia
+
+33
+00:01:49,860 --> 00:01:54,380
+C'est collaboratif, c'est des personnes
+comme vous et moi avec notre smartphone :
+
+34
+00:01:54,380 --> 00:01:58,230
+on scanne des code barres, on prend des
+photos des ingrédients,
+
+35
+00:01:58,230 --> 00:02:01,260
+des informations nutritionnelles, de plein de petits codes
+
+36
+00:02:01,260 --> 00:02:03,810
+et on met tout ça dans une base de données.
+
+37
+00:02:03,810 --> 00:02:07,160
+Aujourd'hui on a presque 700 contributeurs,
+
+38
+00:02:07,160 --> 00:02:10,379
+on a dépassé les 12 000 produits,
+
+39
+00:02:10,379 --> 00:02:13,579
+et on met tout ça donc dans
+une base qui est ouverte sous
+
+40
+00:02:13,579 --> 00:02:18,249
+licence Open Database Licence.
+
+41
+00:02:18,249 --> 00:02:20,989
+Juste un mot sur le crowdsourcing :
+ça fonctionne plutôt bien
+
+42
+00:02:20,989 --> 00:02:23,949
+effectivement puisque un an et demi plus
+tard on a dépassé les 10000
+
+43
+00:02:23,949 --> 00:02:25,669
+produits en français
+
+44
+00:02:25,669 --> 00:02:28,629
+Ca fonctionne parce que ce sont
+des données d'intérêt public
+
+45
+00:02:28,629 --> 00:02:31,310
+il y a plein de gens aujourd'hui qui font
+attention à
+
+46
+00:02:31,310 --> 00:02:32,899
+ce qu'ils ou elles mangent
+
+47
+00:02:32,899 --> 00:02:35,909
+parce qu'elles sont allergiques ou intolérantes au gluten
+
+48
+00:02:35,909 --> 00:02:38,869
+parce qu'elles font attention à leur santé ou au cholestérol
+
+49
+00:02:38,869 --> 00:02:43,489
+ou à l'huile de palme…
+
+50
+00:02:43,489 --> 00:02:46,849
+Alors à quoi ça peut servir une base
+de données sur les informations
+
+51
+00:02:46,849 --> 00:02:47,779
+alimentaires ?
+
+52
+00:02:47,779 --> 00:02:51,179
+Le premier usage le plus évident
+c'est de décrypter les étiquettes
+
+53
+00:02:51,179 --> 00:02:56,329
+comme tous ces petits codes E330, E150d, etc… c'est les codes pour les
+
+54
+00:02:56,329 --> 00:02:57,269
+additifs.
+
+55
+00:02:57,269 --> 00:02:59,019
+Il y en a 2000…
+
+56
+00:02:59,019 --> 00:03:02,469
+et la plupart des gens en connaissent…zéro.
+
+57
+00:03:02,469 --> 00:03:07,159
+donc nous ce qu'on peut faire très
+facilement c'est dire E150d,
+
+58
+00:03:07,159 --> 00:03:11,199
+c'est le colorant qu'il y a dans votre
+coca-cola, c'est du caramel et
+
+59
+00:03:11,199 --> 00:03:14,829
+le nom complet qui n'est pas sur l'étiquette, c'est caramel au sulfite d'ammonium
+
+60
+00:03:14,829 --> 00:03:18,939
+et ça a été placé par la Californie sur la liste des
+
+61
+00:03:18,939 --> 00:03:20,889
+des produits chimiques cancérigènes
+
+62
+00:03:20,889 --> 00:03:22,009
+à éviter donc…
+
+63
+00:03:22,009 --> 00:03:24,639
+Coca l'a retiré du marché aux Etats-Unis,
+
+64
+00:03:24,639 --> 00:03:28,679
+mais chez nous, en Europe, on a toujours ce Coca-Cola au
+
+65
+00:03:28,679 --> 00:03:31,019
+caramel aux sulfites d'ammonium
+
+66
+00:03:31,019 --> 00:03:34,579
+là sur l'exemple c'est les fraises Tagada
+
+67
+00:03:34,579 --> 00:03:37,909
+ou d'ailleurs il n'y a pas du tout marqué le
+mot fraises sur l'emballage parce
+
+68
+00:03:37,909 --> 00:03:39,349
+qu'il n'y en a pas dedans.
+
+69
+00:03:39,349 --> 00:03:42,919
+Par contre il y a des carmins, alors les carmins, c'est l'E120, c'est un colorant
+
+70
+00:03:42,919 --> 00:03:44,389
+rouge.
+
+71
+00:03:44,389 --> 00:03:48,059
+et qui est extrait - j'ai découvert ça en faisant le projet -
+
+72
+00:03:48,059 --> 00:03:51,019
+qui est extrait des cochenilles, donc des petits insectes qui sont élevés sur des
+
+73
+00:03:51,019 --> 00:03:52,119
+cactus au mexique.
+
+74
+00:03:52,119 --> 00:03:55,569
+Vous pressez vos petits insectes, ça vous fait du jus de cochenille
+
+75
+00:03:55,569 --> 00:03:59,079
+et ça permet de colorer non seulement
+les bonbons mais aussi le tarama
+
+76
+00:03:59,079 --> 00:04:02,359
+parce que le tarama c'est des œufs de cabillaud qui malheureusement sont gris…
+
+77
+00:04:02,359 --> 00:04:05,309
+alors si on rajoute un petit peu de
+colorant rouge dedans, du jus de cochenille
+
+78
+00:04:05,309 --> 00:04:07,599
+ça devient rose, c'est tout de suite plus sympa
+
+79
+00:04:07,599 --> 00:04:09,450
+et on se rend compte en fait en regardant,
+
+80
+00:04:09,450 --> 00:04:11,620
+maintenant qu'on a une base de
+données, on peut aller regarder tous les
+
+81
+00:04:11,620 --> 00:04:13,199
+produits qui contiennent
+
+82
+00:04:13,199 --> 00:04:15,439
+cet acide carminique, ce carmin
+
+83
+00:04:15,439 --> 00:04:18,590
+et il n'y en a dans plein de choses où on
+n'aurait pas soupçonné
+
+84
+00:04:18,590 --> 00:04:19,750
+
+
+85
+00:04:19,750 --> 00:04:23,060
+les saucissons, eh ben pour qu'ils soient un peu plus rouge en rajoute du jus de
+
+86
+00:04:23,060 --> 00:04:26,170
+cochenille dedans, la croûte des
+fromages qui est orange
+
+87
+00:04:26,170 --> 00:04:31,199
+c'est du colorant jaune et du colorant rouge
+
+88
+00:04:31,199 --> 00:04:31,970
+
+
+89
+00:04:31,970 --> 00:04:34,069
+Alors quelque chose
+
+90
+00:04:34,069 --> 00:04:37,029
+que j'apprécie et qui est
+intéressant aussi sur les
+
+91
+00:04:37,029 --> 00:04:38,870
+étiquettes, alors en Angleterre,
+
+92
+00:04:38,870 --> 00:04:42,210
+il y a ce qu'on appelle les feux tricolores nutritionnels
+
+93
+00:04:42,210 --> 00:04:45,440
+ça vous dit tout de suite avec des
+pastilles rouges, oranges ou vertes
+
+94
+00:04:45,440 --> 00:04:48,430
+attention c'est trop gras, c'est trop
+sucré, c'est trop salé.
+
+95
+00:04:48,430 --> 00:04:55,430
+En 2011, il y a beaucoup d'écologistes et d'autres, les associations de consommateurs qui ont essayé de faire passer ça au parlement européen…
+
+96
+00:04:56,110 --> 00:04:59,810
+et il y a eu un lobby monstrueux de la
+part de l'industrie
+
+97
+00:04:59,810 --> 00:05:03,370
+agro-alimentaire qui ne vous voulait
+absolument pas mettre un feu rouge
+
+98
+00:05:03,370 --> 00:05:05,069
+sur un paquet de chips.
+
+99
+00:05:05,069 --> 00:05:07,520
+Donc ça a été rejeté en 2011,
+
+100
+00:05:07,520 --> 00:05:11,089
+mais par contre c'est le genre de choses qu'on peut faire assez facilement
+
+101
+00:05:11,089 --> 00:05:14,179
+donc la c'est une nouvelle application
+que je suis en train de
+
+102
+00:05:14,179 --> 00:05:15,089
+développer
+
+103
+00:05:15,089 --> 00:05:16,629
+où en fait on
+
+104
+00:05:16,629 --> 00:05:21,270
+passe son téléphone portable devant
+
+105
+00:05:21,270 --> 00:05:22,319
+n'importe quel produit
+
+106
+00:05:22,319 --> 00:05:25,189
+et on peut montrer à des informations comme par exemple ces
+
+107
+00:05:25,189 --> 00:05:29,180
+fameux feux tricolores.
+
+108
+00:05:29,180 --> 00:05:31,940
+Quand on a une base de données de
+produits ce qui est tentant aussi, bien sûr,
+
+109
+00:05:31,940 --> 00:05:36,240
+c'est de comparer les produits entre eux et les comparer aux moyennes
+
+110
+00:05:36,240 --> 00:05:39,680
+sur mon ketchup, il y a marqué 30 % de sucre en moins.
+
+111
+00:05:39,680 --> 00:05:40,900
+Est-ce que c'est vrai ?
+
+112
+00:05:40,900 --> 00:05:43,389
+C'est le genre de choses qu'on peut vérifier :
+
+113
+00:05:43,389 --> 00:05:46,009
+Là, je vous ai mis un graphique
+
+114
+00:05:46,009 --> 00:05:48,509
+où j'ai choisi d'afficher tous les sodas
+
+115
+00:05:48,509 --> 00:05:51,830
+avec le le sucre sur un axe et les additifs sur l'autre axe
+
+116
+00:05:51,830 --> 00:05:55,439
+et vous pouvez aller sur le site OpenFoodFacts.org et choisir
+
+117
+00:05:55,439 --> 00:05:59,119
+en quelques clics, vous pouvez avoir le
+même graphique avec les charcuteries et
+
+118
+00:05:59,119 --> 00:06:05,180
+puis le gras et le sel par exemple.
+
+119
+00:06:05,180 --> 00:06:06,569
+Donc tout ça,
+
+120
+00:06:06,569 --> 00:06:09,139
+moi ces données-là, ces données sur ce
+qu'on mange,
+
+121
+00:06:09,139 --> 00:06:12,219
+je considère que c'est des données
+tellement importantes qu'elles doivent être
+
+122
+00:06:12,219 --> 00:06:14,229
+publiques, elles doivent être disponibles,
+
+123
+00:06:14,229 --> 00:06:17,860
+donc c'est pour ça qu'on a qu'on a
+qu'on a créé cette base
+
+124
+00:06:17,860 --> 00:06:19,589
+de données.
+
+125
+00:06:19,589 --> 00:06:22,739
+Il y a beaucoup de startup qui se sont lancées aussi sur le créneau
+
+126
+00:06:22,739 --> 00:06:23,930
+de l'alimentation,
+
+127
+00:06:23,930 --> 00:06:28,460
+et souvent, elles aussi, elles veulent
+bien que vous scanniez des produits et
+
+128
+00:06:28,460 --> 00:06:30,889
+que vous leur envoyiez des photos mais par contre après elles se gardent les
+
+129
+00:06:30,889 --> 00:06:34,060
+données pour elle c'est un peu leur
+trésor de guerre. C'est ça qu'elle
+
+130
+00:06:34,060 --> 00:06:35,460
+essaient de monétiser
+
+131
+00:06:35,460 --> 00:06:37,690
+donc nous c'est un projet à but non
+lucratif
+
+132
+00:06:37,690 --> 00:06:40,880
+on a rien à monétiser et au contraire on
+a tout à gagner à ce que les données
+
+133
+00:06:40,880 --> 00:06:41,919
+soient
+
+134
+00:06:41,919 --> 00:06:47,479
+utiles et utilisées pour le plus d'applications possibles.
+
+135
+00:06:47,479 --> 00:06:51,509
+Je vais vous montrer quelques exemples
+de réutilisation :
+
+136
+00:06:51,509 --> 00:06:54,529
+ça c'est un site qui s'appelle "C'est
+fabriqué près de chez vous"
+
+137
+00:06:54,529 --> 00:06:58,309
+c'est fait avec des petits codes qu'il y a
+sur les produits alimentaires qu'on
+
+138
+00:06:58,309 --> 00:06:59,860
+appelle des codes emballeur
+
+139
+00:06:59,860 --> 00:07:01,719
+ça ressemble à 
+
+140
+00:07:01,719 --> 00:07:05,389
+EMB 56081 E
+
+141
+00:07:05,389 --> 00:07:09,389
+donc 56081 ce n'est pas le code postal mais c'est le code INSEE de la commune
+
+142
+00:07:09,389 --> 00:07:12,819
+donc ça nous permet de savoir que c'est
+fabriqué à Thaix dans le
+
+143
+00:07:12,819 --> 00:07:13,849
+Morbihan.
+
+144
+00:07:13,849 --> 00:07:17,139
+Donc on peut aller positionner sur une carte de France où sont
+
+145
+00:07:17,139 --> 00:07:18,300
+fabriqués les produits…
+
+146
+00:07:18,300 --> 00:07:21,129
+et après ce qui est rigolo bien sûr, c'est de regarder tous les
+
+147
+00:07:21,129 --> 00:07:23,210
+produits qui sont faits par la même
+usine
+
+148
+00:07:23,210 --> 00:07:26,849
+donc dans notre usine
+à Thaix dans le Morbihan
+
+149
+00:07:26,849 --> 00:07:31,580
+il y a des haricots et des carottes, etc… de marque Daucy, c'est l'usine
+
+150
+00:07:31,580 --> 00:07:35,209
+de Daucy, mais elle fait aussi
+des produits pour toutes les marques
+
+151
+00:07:35,209 --> 00:07:38,889
+de distributeurs.
+
+152
+00:07:38,889 --> 00:07:42,680
+ça c'est un petit jeu éducatif
+avec les données qu'on a recueilli
+
+153
+00:07:42,680 --> 00:07:45,050
+où le but du jeu c'est : on vous montre un
+produit
+
+154
+00:07:45,050 --> 00:07:47,110
+et il faut imaginer
+
+155
+00:07:47,110 --> 00:07:49,120
+l'équivalent en petits morceaux de
+sucre
+
+156
+00:07:49,120 --> 00:07:52,889
+et on est parfois très surpris de
+la quantité de sucre qu'il y a dans
+
+157
+00:07:52,889 --> 00:07:54,270
+certains aliments.
+
+158
+00:07:54,270 --> 00:07:56,800
+Les sodas bien sûr oui, on pense
+que c'est sucré
+
+159
+00:07:56,800 --> 00:07:59,909
+par contre les jus de fruits on sait pas peut-être pas forcément que c'est
+
+160
+00:07:59,909 --> 00:08:04,039
+aussi sucré que des sodas et que
+dans mon litre de jus de bananes
+
+161
+00:08:04,039 --> 00:08:09,889
+ou de jus d'ananas, il y a 45 petits sucres
+
+162
+00:08:09,889 --> 00:08:15,650
+Voilà, j'en ai fini de ma
+présentation. On a un wiki, tout est ouvert,
+
+163
+00:08:15,650 --> 00:08:17,740
+il y a le code de l'application sur GitHub
+
+164
+00:08:17,740 --> 00:08:18,539
+
+
+165
+00:08:18,539 --> 00:08:21,789
+Si vous avez un téléphone portable
+iPhone ou Android, je vous invite à
+
+166
+00:08:21,789 --> 00:08:24,499
+à installer l'application pour participer
+vous aussi :
+
+167
+00:08:24,499 --> 00:08:28,099
+on a des missions pour recueillir des
+produits avec l'empreinte carbone
+
+168
+00:08:28,099 --> 00:08:29,240
+et tout plein de choses
+
+169
+00:08:29,240 --> 00:08:31,629
+
+170
+00:08:31,629 --> 00:08:32,579
+
+171
+00:08:24,499 --> 00:08:36,249
+et je suis au-dessus au stand Open Food Facts et j'aurai grand plaisir à vous en
+
+172
+00:08:36,249 --> 00:08:39,330
+parler plus en détail tout à l'heure.
+
+173
+00:08:39,330 --> 00:08:42,230
+Merci beaucoup !
+
+174
+00:08:42,230 --> 00:08:49,230
+Merci Stéphane, une petite question peut-être avant d'aller manger ?
+
+175
+00:08:46,310 --> 00:08:52,790
+Je suis passée tout à l'heure à votre stand et j'ai vu un peu, j'ai installé l'appli
+je trouve que l'idée est très bonne
+
+176
+00:08:52,790 --> 00:08:57,170
+mais je me demandais en fait qu'est ce qui me stimulait moi
+
+177
+00:08:57,170 --> 00:09:00,830
+en tant qu'utilisateur de cette appli de
+remplir les informations ?
+
+178
+00:09:00,830 --> 00:09:03,950
+est-ce que vous avez des idées, une petite gamification,
+
+179
+00:09:03,950 --> 00:09:07,250
+ou un truc comme ça pour encourager les gens à contribuer ?
+
+180
+00:09:07,250 --> 00:09:09,950
+Stéphane : Alors une excellente question
+on essaie de toucher un maximum
+
+181
+00:09:09,950 --> 00:09:12,550
+de personnes
+
+182
+00:09:12,550 --> 00:09:17,180
+qui sont intéressées ou
+motivées par des choses différentes
+
+183
+00:09:17,180 --> 00:09:21,270
+donc on a mis un petit peu de
+ludification - puisque c'est comme ça
+
+184
+00:09:21,270 --> 00:09:22,470
+qu'on dit en français
+
+185
+00:09:22,470 --> 00:09:26,029
+ou on a des missions, donc par
+exemple
+
+186
+00:09:26,029 --> 00:09:30,290
+Aller ajouter… la mission "Armoire à
+glace", il faut aller chercher plein de glaces
+
+187
+00:09:30,290 --> 00:09:32,900
+et référencer dix glaces…
+
+188
+00:09:32,900 --> 00:09:37,470
+On essaye d'aller vers d'autres
+communautés, par exemple
+
+189
+00:09:37,470 --> 00:09:39,280
+la communauté
+
+190
+00:09:39,280 --> 00:09:43,450
+de la mesure de soi plus connue sous le
+nom de Quantified Self, c'est les gens qui mesurent
+
+191
+00:09:43,450 --> 00:09:45,639
+le nombre de pas qu'ils font tous les
+jours,
+
+192
+00:09:45,639 --> 00:09:48,069
+le nombre d'heures qu'ils dorment et
+pourquoi pas aussi ce qu'ils
+
+193
+00:09:48,069 --> 00:09:51,260
+mangent, ça peut être intéressant.
+
+194
+00:09:51,260 --> 00:09:54,750
+Après, il y a toutes les personnes qui font attention parce qu'elles ont une raison
+
+195
+00:09:54,750 --> 00:09:58,690
+médicale de faire attention
+à ce qu'elles mangent. Toutes les personnes
+
+196
+00:09:58,690 --> 00:10:01,920
+qui sont allergiques ou intolérantes
+
+197
+00:10:01,920 --> 00:10:04,960
+On cherche des contacts un peu partout de personnes
+
+198
+00:10:04,960 --> 00:10:05,940
+qui peuvent nous aider
+
+199
+00:10:05,940 --> 00:10:08,310
+J'en ai pas parlé mais il y a plein d'autres utilisations possibles
+
+200
+00:10:08,310 --> 00:10:10,910
+par exemple les personnes qui
+
+201
+00:10:10,910 --> 00:10:14,020
+ont du mal à lire les étiquettes
+parce que c'est écrit en tout petit, donc les
+
+202
+00:10:14,020 --> 00:10:16,800
+personnes malvoyantes, toutes les
+personnes qui ne savent pas forcément
+
+203
+00:10:16,800 --> 00:10:18,310
+lire
+
+204
+00:10:18,310 --> 00:10:22,540
+les personnes qui sont expatriées en Chine et qui sont allergiques.
+
+205
+00:10:22,540 --> 00:10:25,360
+Quelque chose qu'on pourrait faire avec notre base de données c'est
+
+206
+00:10:25,360 --> 00:10:28,750
+traduire automatiquement les
+étiquettes : j'ai mon ketchup chinois
+
+207
+00:10:28,750 --> 00:10:29,990
+je scanne
+
+208
+00:10:29,990 --> 00:10:34,270
+et je vois tout de suite à la place des
+caractères chinois
+
+209
+00:10:34,270 --> 00:10:35,750
+qu'est ce qu'il y a vraiment dedans
+
+210
+00:10:35,750 --> 00:10:37,850
+donc voilà c'est ce qu'on est ce que
+c'est ce qu'on essaie de faire…
+
+211
+00:10:37,850 --> 00:10:41,120
+on cherche des idées pour toucher un maximum de personnes
+
+212
+00:10:41,120 --> 00:10:44,160
+pour un maximum de raisons.
+
+213
+00:10:44,160 --> 00:10:47,460
+Mais il y a du travail :
+
+214
+00:10:47,460 --> 00:10:50,970
+on n'a pas 7 personnes à plein-temps
+
+215
+00:10:50,970 --> 00:10:55,660
+pour l'instant c'est surtout moi à
+mi-temps et 600 personnes quand
+
+216
+00:10:55,660 --> 00:10:59,080
+elles veulent bien, donc on cherche toutes les bonnes volontés dans
+
+217
+00:10:59,080 --> 00:11:01,400
+tous plein de domaines
+
+218
+00:11:01,400 --> 00:11:04,860
+pour faire des applications plus sexy,
+plus ludiques
+
+219
+00:11:04,860 --> 00:11:08,630
+pour améliorer la reconnaissance
+optique de caractères, pour qu'on ait
+
+220
+00:11:08,630 --> 00:11:12,450
+pas à retaper les listes d'ingrédients…
+
+221
+00:11:12,450 --> 00:11:15,940
+- Bonjour, tout d'abord félicitations, ça a l'air d'être un projet génial
+
+222
+00:11:15,940 --> 00:11:17,140
+
+
+223
+00:11:17,140 --> 00:11:20,790
+Ma question porte sur les mentions qu'on pourrait dire
+
+224
+00:11:20,790 --> 00:11:23,970
+publicitaires c'est ce que moi à titre personnel je trouve le plus
+
+225
+00:11:23,970 --> 00:11:25,920
+compliqué : il y a des mentions qui sont normées,
+
+226
+00:11:25,920 --> 00:11:28,480
+voire légales
+
+227
+00:11:28,480 --> 00:11:31,960
+Je pense pour donner un exemple à "Sans sucres ajoutés" et des choses comme ça
+
+228
+00:11:31,960 --> 00:11:36,280
+et beaucoup sont pas du tout régulées et en fait elles correspondent à
+
+229
+00:11:36,280 --> 00:11:40,170
+rien et sont notamment utilisées pour
+tromper le consommateur
+
+230
+00:11:40,170 --> 00:11:41,569
+Est-ce que vous avez
+
+231
+00:11:41,569 --> 00:11:46,070
+une initiative dans ce genre de domaine ou des idées ?
+
+232
+00:11:46,070 --> 00:11:50,130
+On cherche des gens qui ont des idées dans tous les domaines en fait.
+
+233
+00:11:50,130 --> 00:11:52,960
+Au début cette histoire de code emballeur, on avait pas
+
+234
+00:11:52,960 --> 00:11:56,270
+fait attention et on savait même pas
+que ça existait. On a
+
+235
+00:11:56,270 --> 00:11:58,880
+cherché ce que c'était. On s'est dit : les codes emballeurs, ça nous
+
+236
+00:11:58,880 --> 00:12:01,010
+donne la ville, on peut peut-être faire
+quelque chose d'intéressant
+
+237
+00:12:01,010 --> 00:12:04,330
+donc on a commencé à ajouter des
+champs en plus
+
+238
+00:12:04,330 --> 00:12:09,110
+Un autre exemple : c'est maintenant quand un
+
+239
+00:12:09,110 --> 00:12:13,590
+produit a un emballage où il y a
+aussi écrit quelque chose en braille,
+
+240
+00:12:13,590 --> 00:12:14,830
+on le note.
+
+241
+00:12:14,830 --> 00:12:19,270
+On a ajouté l'empreinte carbone. Il y a des produits de certaines marques comme
+
+242
+00:12:19,270 --> 00:12:22,760
+AlterEco où il y a l'empreinte carbone.
+On pourrait très bien ajouter
+
+243
+00:12:22,760 --> 00:12:26,260
+certaines mentions qui paraissent
+intéressantes.
+
+244
+00:12:26,260 --> 00:12:29,890
+Pareil, je viens de découvrir
+la signification des
+
+245
+00:12:29,890 --> 00:12:34,500
+des petits logos qui indiquent le type de
+plastique utilisé dans les emballages
+
+246
+00:12:34,500 --> 00:12:37,950
+c'est un petit logo triangulaire et il y a
+un chiffre au milieu
+
+247
+00:12:37,950 --> 00:12:41,459
+et le chiffre indique quel type de plastique c'est.
+
+248
+00:12:41,459 --> 00:12:43,869
+Ca peut être intéressant pour regarder est-ce qu'il y a du
+
+249
+00:12:43,869 --> 00:12:47,240
+bisphénol dans mon emballage de
+bouteille d'eau ou pas…
+
+250
+00:12:47,240 --> 00:12:47,630
+
+
+251
+00:12:47,630 --> 00:12:52,060
+Donc c'est un peu ça, on cherche des gens qui savent, qui ont des idées
+
+252
+00:12:52,060 --> 00:12:53,050
+d'utilisation
+
+253
+00:12:53,050 --> 00:12:57,630
+et qui ont un peu de temps pour essayer de les mettre en pratique avec nous.
+
+254
+00:12:57,630 --> 00:13:03,250
+- Merci Stéphane, une dernière question je pense et après on va manger
+
+255
+00:13:03,250 --> 00:13:09,690
+Y-a-t-il déjà eu des industriels, disons des fabricants qui aient contribué massivement les données de tous leurs produits ?
+
+256
+00:13:09,690 --> 00:13:12,580
+ou dit autrement en termes de ludification, de communication et
+
+257
+00:13:12,580 --> 00:13:14,499
+marketing, est-ce que la place de
+
+258
+00:13:14,499 --> 00:13:18,720
+premier qui ait contribué volontairement est encore à prendre ?
+
+259
+00:13:18,720 --> 00:13:21,710
+Alors, la place est prise, il y a
+
+260
+00:13:21,710 --> 00:13:24,829
+plusieurs entreprises, alors laquelle a
+été la première exactement,
+
+261
+00:13:24,829 --> 00:13:27,100
+honnêtement, on a pas eu le temps de les solliciter
+
+262
+00:13:27,100 --> 00:13:30,779
+nous-mêmes donc il y a quelques
+entreprises qui nous ont contacté
+
+263
+00:13:30,779 --> 00:13:32,500
+spontanément
+
+264
+00:13:32,500 --> 00:13:37,320
+Il y a Lobodis en Bretagne qui fait
+du commerce équitable, surtout
+
+265
+00:13:37,320 --> 00:13:38,900
+du café, du chocolat…
+
+266
+00:13:38,900 --> 00:13:40,790
+Il y a les pâtés Henaff
+
+267
+00:13:40,790 --> 00:13:45,170
+ils m'ont envoyé un
+tableau Excel avec leurs 60 pâtés et les
+
+268
+00:13:45,170 --> 00:13:46,980
+données et les infos nutritionnelles.
+
+269
+00:13:46,980 --> 00:13:50,860
+Voilà, c'est effectivement un axe qu'il faut qu'on
+
+270
+00:13:50,860 --> 00:13:52,600
+développe.
+
+271
+00:13:52,600 --> 00:13:55,920
+Aujourd'hui on a douze mille
+produits mais il y en a
+
+272
+00:13:55,920 --> 00:13:57,350
+potentiellement des millions,
+
+273
+00:13:57,350 --> 00:14:02,190
+donc il faut qu'on trouve plus
+de personnes, surtout dans
+
+274
+00:14:02,190 --> 00:14:05,140
+d'autres pays : là en France ça
+marche très très bien parce qu'on
+
+275
+00:14:05,140 --> 00:14:07,300
+peut aller à des réunions comme
+celle là.
+
+276
+00:14:07,300 --> 00:14:11,870
+Par contre en Allemagne, je ne parle pas allemand, je ne suis pas encore allé à Berlin
+
+277
+00:14:11,870 --> 00:14:14,060
+mais j'espère l'année prochaine
+
+278
+00:14:14,060 --> 00:14:16,360
+pour l'Open Knowledge Conference
+
+279
+00:14:16,360 --> 00:14:18,150
+
+280
+00:14:18,150 --> 00:14:19,950
+Voilà, c'est cela qu'il faut
+
+281
+00:14:19,950 --> 00:14:22,340
+qu'on fasse.
+
+282
+00:14:22,340 --> 00:14:28,980
+Mais effectivement, s'il y a des producteurs…
+
+283
+00:14:28,980 --> 00:14:31,780
+Merci beaucoup, bon appétit à
+tous :-)

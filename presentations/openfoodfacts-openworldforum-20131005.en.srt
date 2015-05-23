@@ -1,0 +1,1185 @@
+﻿1
+00:00:00,000 --> 00:00:00,500
+
+
+2
+00:00:11,219 --> 00:00:14,419
+When we talk about open data, we think about
+
+3
+00:00:14,419 --> 00:00:15,529
+public data...
+
+4
+00:00:15,529 --> 00:00:18,560
+But there are many other data
+which are interesting in our
+
+5
+00:00:18,560 --> 00:00:24,220
+everyday lives and that companies produce.
+
+6
+00:00:24,220 --> 00:00:27,929
+There is one particularly interesting domain, it's
+
+7
+00:00:27,929 --> 00:00:31,160
+food, where it's not about public data
+but data of
+
+8
+00:00:31,160 --> 00:00:32,400
+public interest.
+
+9
+00:00:32,400 --> 00:00:35,310
+Today, I'll present you
+Open Food Facts which is a
+
+10
+00:00:35,310 --> 00:00:37,000
+new way of opening
+
+11
+00:00:37,000 --> 00:00:43,310
+data owned by companies.
+
+12
+00:00:43,310 --> 00:00:49,510
+With the palm oil scandal,
+
+13
+00:00:49,510 --> 00:00:54,460
+the horsemeat scandal,we saw that
+the food industry
+
+14
+00:00:54,460 --> 00:00:57,450
+is not always transparent
+
+15
+00:00:57,450 --> 00:00:58,270
+
+
+16
+00:00:58,270 --> 00:01:02,230
+This lack of transparency is
+not good for anyone: This is not
+
+17
+00:01:02,230 --> 00:01:04,780
+good for the consumer who doesn't know what he eats
+
+18
+00:01:04,780 --> 00:01:06,200
+and has no options to choose from.
+
+19
+00:01:06,200 --> 00:01:09,970
+This is not good for the environment: look at the palm oil case,
+
+20
+00:01:09,970 --> 00:01:13,020
+with the deforestation in 
+Malaysia and Indonesia.
+
+21
+00:01:13,020 --> 00:01:16,830
+Finally, this is not good for 
+companies either, since
+
+22
+00:01:16,830 --> 00:01:18,280
+there it create a lack
+
+23
+00:01:18,280 --> 00:01:21,520
+of trust towards them.
+
+24
+00:01:21,520 --> 00:01:26,240
+We said ourselves: if people can create the biggest
+
+25
+00:01:26,240 --> 00:01:27,870
+encyclopedy in the world,
+
+26
+00:01:27,870 --> 00:01:31,340
+if they can work together to create a map of the world which is
+
+27
+00:01:31,340 --> 00:01:33,550
+more detailed than the one Google made,
+
+28
+00:01:33,550 --> 00:01:37,620
+Why not try to create a database on
+
+29
+00:01:37,620 --> 00:01:38,820
+food products?
+
+30
+00:01:38,820 --> 00:01:43,930
+That's how, one year and a half ago, Open Food Facts started.
+
+31
+00:01:43,930 --> 00:01:46,890
+Open Food Facts is a database,
+
+32
+00:01:46,890 --> 00:01:49,860
+based on similar principle to Wikipedia
+
+33
+00:01:49,860 --> 00:01:54,380
+it's collaborative, people with a smartphone
+like you and me:
+
+34
+00:01:54,380 --> 00:01:58,230
+we scan bar codes, we take
+pictures of ingredients,
+
+35
+00:01:58,230 --> 00:02:01,260
+nutrition facts and every bits of information
+
+36
+00:02:01,260 --> 00:02:03,810
+then we put them all in a database
+
+37
+00:02:03,810 --> 00:02:07,160
+Today, there are almost 700 contributors
+
+38
+00:02:07,160 --> 00:02:10,379
+with over 12.000 products
+
+39
+00:02:10,379 --> 00:02:13,579
+everything is put into
+an open database
+
+40
+00:02:13,579 --> 00:02:18,249
+under Open Database Licence.
+
+41
+00:02:18,249 --> 00:02:20,989
+A quick word on crowdsourcing:
+it's working well
+
+42
+00:02:20,989 --> 00:02:23,949
+in fact in one year and a half,
+we went over 10.000
+
+43
+00:02:23,949 --> 00:02:25,669
+products in France
+
+44
+00:02:25,669 --> 00:02:28,629
+It's working because it is
+data of public interest
+
+45
+00:02:28,629 --> 00:02:31,310
+There is a lot of people today which are
+careful about
+
+46
+00:02:31,310 --> 00:02:32,899
+what they eat
+
+47
+00:02:32,899 --> 00:02:35,909
+because they are alergic or intolerant to gluten
+
+48
+00:02:35,909 --> 00:02:38,869
+because they are careful about their health or cholesterol
+
+49
+00:02:38,869 --> 00:02:43,489
+or about palm oil...
+
+50
+00:02:43,489 --> 00:02:46,849
+What could be the use of a
+database with information
+
+51
+00:02:46,849 --> 00:02:47,779
+on food?
+
+52
+00:02:47,779 --> 00:02:51,179
+The first and foremost:
+is to decrypt the labels
+
+53
+00:02:51,179 --> 00:02:56,329
+like all these E330, E150d, etc... 
+
+54
+00:02:56,329 --> 00:02:57,269
+These are additives.
+
+55
+00:02:57,269 --> 00:02:59,019
+There is about 2.000 of them...
+
+56
+00:02:59,019 --> 00:03:02,469
+and most people know ... none.
+
+57
+00:03:02,469 --> 00:03:07,159
+What we can easily do,
+it's to say E150d
+
+58
+00:03:07,159 --> 00:03:11,199
+it's the colorant which is in your
+can of coke, it's caramel and
+
+59
+00:03:11,199 --> 00:03:14,829
+the complete name which is not on the label, is sulfite ammonia caramel
+
+60
+00:03:14,829 --> 00:03:18,939
+in California, is now on the list of
+
+61
+00:03:18,939 --> 00:03:20,889
+carcinogenic chemical substances
+
+62
+00:03:20,889 --> 00:03:22,009
+better to avoid it then...
+
+63
+00:03:22,009 --> 00:03:24,639
+Coca Cola removed the E150d from the US market.
+
+64
+00:03:24,639 --> 00:03:28,679
+but for us, in Europe, we still have this Coca Cola with
+
+65
+00:03:28,679 --> 00:03:31,019
+sulfite ammonia caramel
+
+66
+00:03:31,019 --> 00:03:34,579
+On the Fraise Tagada (Tagada strawberry) example
+
+67
+00:03:34,579 --> 00:03:37,909
+where there is not at all the word fraise (strawberry)
+written on the packaging because
+
+68
+00:03:37,909 --> 00:03:39,349
+there isn't any in it.
+
+69
+00:03:39,349 --> 00:03:42,919
+However, there is cochineal, it's E120, it's a
+
+70
+00:03:42,919 --> 00:03:44,389
+red colorant.
+
+71
+00:03:44,389 --> 00:03:48,059
+and it's extract - I discovered this doing the project -
+
+72
+00:03:48,059 --> 00:03:51,019
+which is extracted from cochineal insect, some small insects which are farmed on
+
+73
+00:03:51,019 --> 00:03:52,119
+cactus in Mexico.
+
+74
+00:03:52,119 --> 00:03:55,569
+You squeeze your little insects, and then you have some cochineal juice
+
+75
+00:03:55,569 --> 00:03:59,079
+and it allows you to color your
+candies but also the taramasalata
+
+76
+00:03:59,079 --> 00:04:02,359
+because taramasalata is made of cod eggs which are unfortunately gray...
+
+77
+00:04:02,359 --> 00:04:05,309
+so if we add a drop of
+red colorant inside, some cochineal juice
+
+78
+00:04:05,309 --> 00:04:07,599
+it become pink, of course, it's much more pleasant
+
+79
+00:04:07,599 --> 00:04:09,450
+and we indeed realize,
+
+80
+00:04:09,450 --> 00:04:11,620
+looking in our database,
+that we can look for all
+
+81
+00:04:11,620 --> 00:04:13,199
+of the products that contain
+
+82
+00:04:13,199 --> 00:04:15,439
+this carminic acid, this cochineal
+
+83
+00:04:15,439 --> 00:04:18,590
+and there plenty of things we
+wouldn't suspect containg some
+
+84
+00:04:18,590 --> 00:04:19,750
+
+
+85
+00:04:19,750 --> 00:04:23,060
+the saucissons, for them to be more red, we put some juice of
+
+86
+00:04:23,060 --> 00:04:26,170
+cochineal inside, the orange 
+cheese crust
+
+87
+00:04:26,170 --> 00:04:31,199
+it's some yellow colorant with red colorant
+
+88
+00:04:31,199 --> 00:04:31,970
+
+
+89
+00:04:31,970 --> 00:04:34,069
+Also something I like
+
+90
+00:04:34,069 --> 00:04:37,029
+and which is interesting on
+
+91
+00:04:37,029 --> 00:04:38,870
+labels, in UK,
+
+92
+00:04:38,870 --> 00:04:42,210
+is what we call the traffic light nutrition facts
+
+93
+00:04:42,210 --> 00:04:45,440
+it's showing you immediately with
+red, orange and green labels
+
+94
+00:04:45,440 --> 00:04:48,430
+be careful, there is too much fat, there is too much
+sugar, there is too much salt.
+
+95
+00:04:48,430 --> 00:04:55,430
+In 2011, there was a lot of ecologists and consumers groups which 
+have tried to propose this to the European parliament
+
+96
+00:04:56,110 --> 00:04:59,810
+but there has been a huge lobby from
+the food industry
+
+97
+00:04:59,810 --> 00:05:03,370
+who didn't want
+to put a red flag
+
+98
+00:05:03,370 --> 00:05:05,069
+on a bag of chips.
+
+99
+00:05:05,069 --> 00:05:07,520
+So it has been rejected in 2011.
+
+100
+00:05:07,520 --> 00:05:11,089
+However, it's a thing that we can easily display
+
+101
+00:05:11,089 --> 00:05:14,179
+nicely this is a new app
+that I am currently
+
+102
+00:05:14,179 --> 00:05:15,089
+developing
+
+103
+00:05:15,089 --> 00:05:16,629
+where we
+
+104
+00:05:16,629 --> 00:05:21,270
+put our mobile phone in front of
+
+105
+00:05:21,270 --> 00:05:22,319
+any product
+
+106
+00:05:22,319 --> 00:05:25,189
+and we can then see information like these
+
+107
+00:05:25,189 --> 00:05:29,180
+traffic light type of nutrition facts.
+
+108
+00:05:29,180 --> 00:05:31,940
+When you have a database of
+products, it's also tempting, of course,
+
+109
+00:05:31,940 --> 00:05:36,240
+to compare between products, to compare my ketchup
+
+110
+00:05:36,240 --> 00:05:39,680
+to the average ketchups, it's written 30% less of sugar.
+
+111
+00:05:39,680 --> 00:05:40,900
+Is this true?
+
+112
+00:05:40,900 --> 00:05:43,389
+That the kind of things we can check:
+
+113
+00:05:43,389 --> 00:05:46,009
+Here, I show you a graphic
+
+114
+00:05:46,009 --> 00:05:48,509
+where I choose to display every sodas
+
+115
+00:05:48,509 --> 00:05:51,830
+with sugar on one axis and additives on the other.
+
+116
+00:05:51,830 --> 00:05:55,439
+you can go on the OpenFoodFacts.org website and within
+
+117
+00:05:55,439 --> 00:05:59,119
+with a few clicks, you can have the
+same graphic with charcuterie and
+
+118
+00:05:59,119 --> 00:06:05,180
+the fat and the salt for example.
+
+119
+00:06:05,180 --> 00:06:06,569
+So, all of this
+
+120
+00:06:06,569 --> 00:06:09,139
+these data, these data on
+what we're eating,
+
+121
+00:06:09,139 --> 00:06:12,219
+I think that this is data
+so much important that they must be
+
+122
+00:06:12,219 --> 00:06:14,229
+public, they must be available,
+
+123
+00:06:14,229 --> 00:06:17,860
+so that's why we have, we have
+we have created this
+
+124
+00:06:17,860 --> 00:06:19,589
+database.
+
+125
+00:06:19,589 --> 00:06:22,739
+There is a lot of startup that has been launched on this topic
+
+126
+00:06:22,739 --> 00:06:23,930
+of food,
+
+127
+00:06:23,930 --> 00:06:28,460
+and often, they wanted you
+to scan the products and
+
+128
+00:06:28,460 --> 00:06:30,889
+that you send them some photos but after, they keep
+
+129
+00:06:30,889 --> 00:06:34,060
+the data for themselves, it's like their
+war chest, it's what they
+
+130
+00:06:34,060 --> 00:06:35,460
+try to make business with
+
+131
+00:06:35,460 --> 00:06:37,690
+while, well, us, we are a non-profit
+project
+
+132
+00:06:37,690 --> 00:06:40,880
+we have nothing to monetize and on the contrary, we
+take full benefit of having these data
+
+133
+00:06:40,880 --> 00:06:41,919
+being useful
+
+134
+00:06:41,919 --> 00:06:47,479
+and used for as many applications as possible.
+
+135
+00:06:47,479 --> 00:06:51,509
+I'll show you some examples
+of reuse:
+
+136
+00:06:51,509 --> 00:06:54,529
+this is a website called "C'est fabriqué près de chez vous"
+(made near me)
+
+137
+00:06:54,529 --> 00:06:58,309
+it's done with these little codes which are
+on food products that we
+
+138
+00:06:58,309 --> 00:06:59,860
+call packaging code
+
+139
+00:06:59,860 --> 00:07:01,719
+it's looks like
+
+140
+00:07:01,719 --> 00:07:05,389
+EMB 56081 E
+
+141
+00:07:05,389 --> 00:07:09,389
+so 56081 it's not a postal code but it's French INSEE code of the town
+
+142
+00:07:09,389 --> 00:07:12,819
+well we can now know that it's
+produced in Theix in
+
+143
+00:07:12,819 --> 00:07:13,849
+Morbihan (Britanny, France).
+
+144
+00:07:13,849 --> 00:07:17,139
+We can now look somewhere on the French map where are
+
+145
+00:07:17,139 --> 00:07:18,300
+produced these products.
+
+146
+00:07:18,300 --> 00:07:21,129
+and then, what's fun, it's to look at all the other
+
+147
+00:07:21,129 --> 00:07:23,210
+products that are produced by the same
+factory
+
+148
+00:07:23,210 --> 00:07:26,849
+well in our factory
+in Theix, Morbihan
+
+149
+00:07:26,849 --> 00:07:31,580
+there is beans and carots, so on from the Daucy brand, it's the factory
+
+150
+00:07:31,580 --> 00:07:35,209
+of Daucy, but it's producing also
+food for all the other brands
+
+151
+00:07:35,209 --> 00:07:38,889
+that are distributors.
+
+152
+00:07:38,889 --> 00:07:42,680
+This is a small pedagogical game
+with data that we gather
+
+153
+00:07:42,680 --> 00:07:45,050
+The game goes like this: we show you a
+product
+
+154
+00:07:45,050 --> 00:07:47,110
+and you try to find
+
+155
+00:07:47,110 --> 00:07:49,120
+their sugar equivalent in  
+in number of sugar cubes
+
+156
+00:07:49,120 --> 00:07:52,889
+and sometimes you can be very stunned of
+the quantity of sugar in
+
+157
+00:07:52,889 --> 00:07:54,270
+some food.
+
+158
+00:07:54,270 --> 00:07:56,800
+Soda, of course yes, we think
+that it's sugary
+
+159
+00:07:56,800 --> 00:07:59,909
+however, fruit juices we may know a little less that it's
+
+160
+00:07:59,909 --> 00:08:04,039
+as sugary as the sodas and that
+in my liter of banana juice
+
+161
+00:08:04,039 --> 00:08:09,889
+or pinapple juice, there is 45 sugar cubes
+
+162
+00:08:09,889 --> 00:08:15,650
+That's all, the presentation is done.
+We have a wiki, everything is open,
+
+163
+00:08:15,650 --> 00:08:17,740
+the source code of the software is on Github
+
+164
+00:08:17,740 --> 00:08:18,539
+
+
+165
+00:08:18,539 --> 00:08:21,789
+
+
+166
+00:08:21,789 --> 00:08:24,499
+
+
+167
+00:08:24,499 --> 00:08:28,099
+
+
+168
+00:08:28,099 --> 00:08:29,240
+
+
+169
+00:08:29,240 --> 00:08:31,629
+
+
+170
+00:08:31,629 --> 00:08:32,579
+
+
+171
+00:08:24,499 --> 00:08:36,249
+
+
+172
+00:08:36,249 --> 00:08:39,330
+
+
+173
+00:08:39,330 --> 00:08:42,230
+
+
+174
+00:08:42,230 --> 00:08:49,230
+
+
+175
+00:08:46,310 --> 00:08:52,790
+
+
+176
+00:08:52,790 --> 00:08:57,170
+
+
+177
+00:08:57,170 --> 00:09:00,830
+
+
+178
+00:09:00,830 --> 00:09:03,950
+
+
+179
+00:09:03,950 --> 00:09:07,250
+
+
+180
+00:09:07,250 --> 00:09:09,950
+
+
+181
+00:09:09,950 --> 00:09:12,550
+
+
+182
+00:09:12,550 --> 00:09:17,180
+
+
+183
+00:09:17,180 --> 00:09:21,270
+
+
+184
+00:09:21,270 --> 00:09:22,470
+
+
+185
+00:09:22,470 --> 00:09:26,029
+
+
+186
+00:09:26,029 --> 00:09:30,290
+
+
+187
+00:09:30,290 --> 00:09:32,900
+
+
+188
+00:09:32,900 --> 00:09:37,470
+
+
+189
+00:09:37,470 --> 00:09:39,280
+
+
+190
+00:09:39,280 --> 00:09:43,450
+
+
+191
+00:09:43,450 --> 00:09:45,639
+
+
+192
+00:09:45,639 --> 00:09:48,069
+
+
+193
+00:09:48,069 --> 00:09:51,260
+
+
+194
+00:09:51,260 --> 00:09:54,750
+
+
+195
+00:09:54,750 --> 00:09:58,690
+
+
+196
+00:09:58,690 --> 00:10:01,920
+
+
+197
+00:10:01,920 --> 00:10:04,960
+
+
+198
+00:10:04,960 --> 00:10:05,940
+
+
+199
+00:10:05,940 --> 00:10:08,310
+
+
+200
+00:10:08,310 --> 00:10:10,910
+
+
+201
+00:10:10,910 --> 00:10:14,020
+
+
+202
+00:10:14,020 --> 00:10:16,800
+
+
+203
+00:10:16,800 --> 00:10:18,310
+
+
+204
+00:10:18,310 --> 00:10:22,540
+
+
+205
+00:10:22,540 --> 00:10:25,360
+
+
+206
+00:10:25,360 --> 00:10:28,750
+
+
+207
+00:10:28,750 --> 00:10:29,990
+
+
+208
+00:10:29,990 --> 00:10:34,270
+
+
+209
+00:10:34,270 --> 00:10:35,750
+
+
+210
+00:10:35,750 --> 00:10:37,850
+
+
+211
+00:10:37,850 --> 00:10:41,120
+
+
+212
+00:10:41,120 --> 00:10:44,160
+
+
+213
+00:10:44,160 --> 00:10:47,460
+
+
+214
+00:10:47,460 --> 00:10:50,970
+
+
+215
+00:10:50,970 --> 00:10:55,660
+
+
+216
+00:10:55,660 --> 00:10:59,080
+
+
+217
+00:10:59,080 --> 00:11:01,400
+
+
+218
+00:11:01,400 --> 00:11:04,860
+
+
+219
+00:11:04,860 --> 00:11:08,630
+
+
+220
+00:11:08,630 --> 00:11:12,450
+
+
+221
+00:11:12,450 --> 00:11:15,940
+
+
+222
+00:11:15,940 --> 00:11:17,140
+
+
+223
+00:11:17,140 --> 00:11:20,790
+
+
+224
+00:11:20,790 --> 00:11:23,970
+
+
+225
+00:11:23,970 --> 00:11:25,920
+
+
+226
+00:11:25,920 --> 00:11:28,480
+
+
+227
+00:11:28,480 --> 00:11:31,960
+
+
+228
+00:11:31,960 --> 00:11:36,280
+
+
+229
+00:11:36,280 --> 00:11:40,170
+
+
+230
+00:11:40,170 --> 00:11:41,569
+
+
+231
+00:11:41,569 --> 00:11:46,070
+
+
+232
+00:11:46,070 --> 00:11:50,130
+
+
+233
+00:11:50,130 --> 00:11:52,960
+
+
+234
+00:11:52,960 --> 00:11:56,270
+
+
+235
+00:11:56,270 --> 00:11:58,880
+
+
+236
+00:11:58,880 --> 00:12:01,010
+
+
+237
+00:12:01,010 --> 00:12:04,330
+
+
+238
+00:12:04,330 --> 00:12:09,110
+
+
+239
+00:12:09,110 --> 00:12:13,590
+
+
+240
+00:12:13,590 --> 00:12:14,830
+
+
+241
+00:12:14,830 --> 00:12:19,270
+
+
+242
+00:12:19,270 --> 00:12:22,760
+
+
+243
+00:12:22,760 --> 00:12:26,260
+
+
+244
+00:12:26,260 --> 00:12:29,890
+
+
+245
+00:12:29,890 --> 00:12:34,500
+
+
+246
+00:12:34,500 --> 00:12:37,950
+
+
+247
+00:12:37,950 --> 00:12:41,459
+
+
+248
+00:12:41,459 --> 00:12:43,869
+
+
+249
+00:12:43,869 --> 00:12:47,240
+
+
+250
+00:12:47,240 --> 00:12:47,630
+
+
+251
+00:12:47,630 --> 00:12:52,060
+
+
+252
+00:12:52,060 --> 00:12:53,050
+
+
+253
+00:12:53,050 --> 00:12:57,630
+
+
+254
+00:12:57,630 --> 00:13:03,250
+
+
+255
+00:13:03,250 --> 00:13:09,690
+
+
+256
+00:13:09,690 --> 00:13:12,580
+
+
+257
+00:13:12,580 --> 00:13:14,499
+
+
+258
+00:13:14,499 --> 00:13:18,720
+
+
+259
+00:13:18,720 --> 00:13:21,710
+
+
+260
+00:13:21,710 --> 00:13:24,829
+
+
+261
+00:13:24,829 --> 00:13:27,100
+
+
+262
+00:13:27,100 --> 00:13:30,779
+
+
+263
+00:13:30,779 --> 00:13:32,500
+
+
+264
+00:13:32,500 --> 00:13:37,320
+
+
+265
+00:13:37,320 --> 00:13:38,900
+
+
+266
+00:13:38,900 --> 00:13:40,790
+
+
+267
+00:13:40,790 --> 00:13:45,170
+
+
+268
+00:13:45,170 --> 00:13:46,980
+
+
+269
+00:13:46,980 --> 00:13:50,860
+
+
+270
+00:13:50,860 --> 00:13:52,600
+
+
+271
+00:13:52,600 --> 00:13:55,920
+
+
+272
+00:13:55,920 --> 00:13:57,350
+
+
+273
+00:13:57,350 --> 00:14:02,190
+
+
+274
+00:14:02,190 --> 00:14:05,140
+
+
+275
+00:14:05,140 --> 00:14:07,300
+
+
+276
+00:14:07,300 --> 00:14:11,870
+
+
+277
+00:14:11,870 --> 00:14:14,060
+
+
+278
+00:14:14,060 --> 00:14:16,360
+
+
+279
+00:14:16,360 --> 00:14:18,150
+
+
+280
+00:14:18,150 --> 00:14:19,950
+
+
+281
+00:14:19,950 --> 00:14:22,340
+
+
+282
+00:14:22,340 --> 00:14:28,980
+
+
+283
+00:14:28,980 --> 00:14:31,780
+
+
