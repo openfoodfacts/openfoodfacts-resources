@@ -1,0 +1,3 @@
+files:
+  - source: /openfoodfacts-resources/presentations/Open Beauty Facts-web.pptx
+    translation: /openfoodfacts-resources/translations/%locale%/presentations/Open Beauty Facts-web-%locale%.pptx
